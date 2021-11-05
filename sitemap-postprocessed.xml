@@ -550,7 +550,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/fair-credit-reporting-act/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-11-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/fair-credit-reporting-act/model-forms-and-disclosures/</loc>
@@ -674,7 +674,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/advisory-opinion-program/</loc>
-    <lastmod>2021-10-20</lastmod>
+    <lastmod>2021-11-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/registration-and-submission-programs/</loc>
@@ -1503,6 +1503,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/debt-collection-practices-regulation-f-withdrawal-proposal-to-delay-effective-date/</loc>
     <lastmod>2021-09-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/final-rules/fair-credit-reporting-name-only-matching-procedures/</loc>
+    <lastmod>2021-11-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/small-business-review-panels/</loc>
@@ -7597,16 +7601,16 @@
     <lastmod>2021-08-13</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/events/november-2021-combined-community-bank-advisory-council-credit-union-advisory-council-meeting/</loc>
-    <lastmod>2021-11-03</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/events/november-2021-consumer-advisory-board-meeting/</loc>
+    <loc>https://www.consumerfinance.gov/about-us/events/archive-past-events/november-2021-consumer-advisory-board-meeting/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/events/november-2021-combined-community-bank-advisory-council-credit-union-advisory-council-meeting/</loc>
+    <lastmod>2021-11-04</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/events/november-2021-academic-research-council-meeting/</loc>
-    <lastmod>2021-10-27</lastmod>
+    <lastmod>2021-11-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/events/public-service-loan-forgiveness-demystified/</loc>
@@ -19121,6 +19125,10 @@
     <lastmod>2021-11-02</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-to-stop-false-identification-by-background-screeners/</loc>
+    <lastmod>2021-11-04</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2021-06-11</lastmod>
   </url>
@@ -19167,10 +19175,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/student-trainee-legal-intern-7x/</loc>
     <lastmod>2021-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/supervisory-information-technology-specialist-19mpa/</loc>
-    <lastmod>2021-10-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/senior-research-fellow-323x/</loc>
@@ -26490,11 +26494,19 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/</loc>
-    <lastmod>2021-11-02</lastmod>
+    <lastmod>2021-11-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/elder-abuse-resources/</loc>
     <lastmod>2021-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/age-friendly-promotional-toolkit-for-banks/</loc>
+    <lastmod>2021-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/age-friendly-promotional-toolkit-for-credit-unions/</loc>
+    <lastmod>2021-11-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/financial-security-as-you-age/</loc>
@@ -32366,7 +32378,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/asistencia-propietarios-de-vivienda/</loc>
-    <lastmod>2021-08-31</lastmod>
+    <lastmod>2021-11-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/asistencia-propietarios-de-vivienda/sepa-sobre-aplazamiento/</loc>
