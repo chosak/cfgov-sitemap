@@ -1114,7 +1114,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/consumer-leasing-regulation-m-adjustments/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/defining-larger-participants-automobile-financing-market-and-defining-certain-automobile-leasing-activity-financial-product-or-service/</loc>
@@ -1218,11 +1218,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/appraisals-higher-priced-mortgage-loans-exemption-threshold-adjustments/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/truth-lending-regulation-z-threshold-adjustments/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/amendments-2013-integrated-mortgage-disclosures-rule-under-real-estate-settlement-procedures-act-regulation-x-and-truth-lending-act-regulation-z-and-2013-loan-originator-rule-under-truth-lending-act-regulation-z/</loc>
@@ -6073,8 +6073,16 @@
     <lastmod>2021-11-02</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-point-checking-account-overdraft-financial-institutions-served-core-processors/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/financial-report-cfpb-fiscal-year-2021/</loc>
     <lastmod>2021-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-point-overdraft-nsf-fee-reliance-since-2015-evidence-from-bank-call-reports/</loc>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
@@ -6346,7 +6354,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/ryan-sandler/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/cortnie-shupe/</loc>
@@ -6367,6 +6375,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/alice-jun/</loc>
     <lastmod>2021-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/isaac-mcfarlin-jr/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/laszlo-sandor/</loc>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/student-banking/</loc>
@@ -7022,7 +7038,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/</loc>
-    <lastmod>2021-11-24</lastmod>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/</loc>
@@ -19205,6 +19221,22 @@
     <lastmod>2021-11-24</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-research-shows-banks-deep-dependence-on-overdraft-fees/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-cfpb-director-rohit-chopra-overdraft-press-call/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-dollar-thresholds-reg-z-and-m-exempt-consumer-credit-and-lease-transactions/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-threshold-smaller-loan-exemption-appraisal-requirements-higher-priced-mortgage-loans-2021/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2021-06-11</lastmod>
   </url>
@@ -19247,6 +19279,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/economist-22-cfpb-38-dh/</loc>
     <lastmod>2021-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-program-analyst-exec-sec-22-cfpb-45-x/</loc>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
@@ -32270,7 +32306,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/quienes-somos/</loc>
-    <lastmod>2021-07-29</lastmod>
+    <lastmod>2021-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/quienes-somos/prestamos-pequenos-negocios/</loc>
