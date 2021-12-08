@@ -498,7 +498,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/consumer-cards-resources/</loc>
@@ -546,7 +546,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/</loc>
-    <lastmod>2020-10-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/fair-credit-reporting-act/</loc>
@@ -583,6 +583,18 @@
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/debt-collection/forms-and-samples/</loc>
     <lastmod>2021-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/libor-index-transition/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/libor-index-transition/sample-forms/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/libor-index-transition/libor-transition-faqs/</loc>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/</loc>
@@ -1507,6 +1519,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/fair-credit-reporting-name-only-matching-procedures/</loc>
     <lastmod>2021-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/final-rules/facilitating-libor-transition-regulation-z/</loc>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/small-business-review-panels/</loc>
@@ -3810,7 +3826,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/monster-loans-lend-tech-loans-and-associated-student-loan-debt-relief-companies/</loc>
-    <lastmod>2021-02-17</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/citizens-bank/</loc>
@@ -13365,6 +13381,10 @@
     <lastmod>2021-12-02</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/the-libor-index-for-adjustable-rate-loans-is-being-discontinued-heres-what-to-watch-for/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
     <lastmod>2021-07-08</lastmod>
   </url>
@@ -19245,6 +19265,26 @@
     <lastmod>2021-12-01</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-final-rule-to-facilitate-transition-from-libor/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/statement-of-director-rohit-chopra-on-libor-transition-rule/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/remarks-director-rohit-chopra-elder-justice-coordinating-council-meeting/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/director-chopra-remarks-december-naag-meeting/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/statement-by-cfpb-director-rohit-chopra-on-hud-guidance-on-special-purpose-credit-programs/</loc>
+    <lastmod>2021-12-07</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2021-06-11</lastmod>
   </url>
@@ -19283,10 +19323,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-and-program-analyst-enforcement-compliance/</loc>
     <lastmod>2019-02-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/economist-22-cfpb-38-dh/</loc>
-    <lastmod>2021-12-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-program-analyst-exec-sec-22-cfpb-45-x/</loc>
@@ -19494,7 +19530,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/</loc>
-    <lastmod>2020-07-01</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/privacy-impact-assessments/</loc>
@@ -19670,7 +19706,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/records-disclosure-privacy-act-statement/</loc>
-    <lastmod>2021-11-12</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/foia-requests/</loc>
@@ -19678,7 +19714,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/foia-requests/submit-request/</loc>
-    <lastmod>2021-08-25</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/foia-requests/fee-schedule/</loc>
@@ -19946,7 +19982,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/</loc>
-    <lastmod>2021-07-02</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/privacy-act-statement/</loc>
@@ -20154,7 +20190,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/learnmore/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/mortgagehelp/</loc>
@@ -20874,7 +20910,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/complaint/getting-started/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/you-have-the-right/</loc>
@@ -21506,7 +21542,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-can-i-verify-whether-or-not-a-debt-collector-is-legitimate-en-1699/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-cant-pay-my-credit-card-bills-en-1697/</loc>
@@ -21958,7 +21994,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-are-debt-settlementdebt-relief-services-and-should-i-use-them-en-1457/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-choose-which-credit-counselor-is-right-for-me-en-1455/</loc>
@@ -21974,11 +22010,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-credit-counselor-and-a-debt-settlement-or-debt-relief-company-en-1449/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-put-a-lien-on-my-house-if-i-am-not-paying-my-debt-en-1445/</loc>
@@ -22014,7 +22050,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-may-happen-if-i-ignore-or-avoid-a-debt-collector-en-1427/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-try-to-collect-on-a-debt-that-was-discharged-in-bankruptcy-en-1425/</loc>
@@ -22042,7 +22078,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-debt-collector-to-stop-contacting-me-en-1411/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/a-debt-collector-called-my-employer-looking-for-me-what-can-i-do-en-1409/</loc>
@@ -22058,11 +22094,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-if-i-believe-i-do-not-owe-the-debt-or-i-want-more-information-about-the-debt-en-1403/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-an-unfair-practice-by-a-debt-collector-en-1401/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/a-debt-collector-contacted-me-about-a-debt-i-already-paid-what-should-i-do-en-1399/</loc>
@@ -22290,7 +22326,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-credit-application-was-denied-because-of-my-credit-report-what-can-i-do-en-1253/</loc>
-    <lastmod>2021-11-10</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-reporting-company-en-1251/</loc>
@@ -23918,11 +23954,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-debt-collectors-call-me-anytime-they-want-day-or-night-en-335/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-a-creditor-or-debt-collector-sues-me-en-334/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/if-a-debt-collector-is-asking-me-to-pay-more-than-one-debt-do-i-have-any-control-over-which-debt-my-payment-is-applied-to-en-333/</loc>
@@ -23934,15 +23970,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-collector-and-why-are-they-contacting-me-en-330/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/are-there-laws-that-limit-what-debt-collectors-can-say-or-do-en-329/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-am-receiving-many-offers-for-new-credit-cards-since-i-moved-into-my-new-home-or-took-out-my-mortgage-can-i-make-the-offers-stop-en-328/</loc>
@@ -25354,7 +25390,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/should-i-share-my-personal-information-including-birth-date-and-social-security-number-debt-collector-en-2098/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/unexpected-pre-approved-offer-or-live-check-loan-mail-en-2099/</loc>
@@ -25410,7 +25446,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-contact-me-through-social-media-en-2112/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-limited-content-message-en-2113/</loc>
@@ -27694,7 +27730,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/</loc>
-    <lastmod>2021-11-23</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/understand-fees/</loc>
@@ -32986,6 +33022,6 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/get-help-paying-rent-utilities/</loc>
-    <lastmod>2021-07-28</lastmod>
+    <lastmod>2021-12-07</lastmod>
   </url>
 </urlset>
