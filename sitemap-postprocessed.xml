@@ -954,7 +954,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/</loc>
-    <lastmod>2020-11-25</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/regulatory-agenda/</loc>
@@ -1322,7 +1322,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/civil-penalty-inflation-annual-adjustments/</loc>
-    <lastmod>2021-06-30</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/policy-ex-parte-presentations-rulemaking-proceedings/</loc>
@@ -2761,14 +2761,6 @@
     <lastmod>2020-12-11</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/rules-policy/taskforce-federal-consumer-financial-law/</loc>
-    <lastmod>2020-12-10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/rules-policy/taskforce-federal-consumer-financial-law/purpose/</loc>
-    <lastmod>2020-02-06</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/</loc>
     <lastmod>2021-01-22</lastmod>
   </url>
@@ -2791,6 +2783,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/apply/</loc>
     <lastmod>2021-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/taskforce-federal-consumer-financial-law/</loc>
+    <lastmod>2022-01-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/taskforce-federal-consumer-financial-law/purpose/</loc>
+    <lastmod>2020-02-06</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/community-banks-credit-unions/</loc>
@@ -2894,7 +2894,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/</loc>
-    <lastmod>2021-07-21</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/consumer-education-financial-literacy/</loc>
@@ -4354,7 +4354,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/</loc>
-    <lastmod>2021-11-19</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/know-you-owe-credit-cards/</loc>
@@ -4375,6 +4375,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/credit-card-agreement-submission/credit-card-agreement-submission-faqs/</loc>
     <lastmod>2021-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/credit-card-data/college-credit-card-marketing-agreement-submission/</loc>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/national-survey-mortgage-originations/</loc>
@@ -5946,7 +5950,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/taskforce-on-federal-consumer-financial-law-report/</loc>
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/supervisory-highlights-covid-19-prioritized-assessments-special-edition-issue-23/</loc>
@@ -13473,6 +13477,10 @@
     <lastmod>2022-01-12</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/its-illegal-penalize-borrowers-being-religious/</loc>
+    <lastmod>2022-01-14</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
     <lastmod>2021-07-08</lastmod>
   </url>
@@ -18914,7 +18922,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureaus-taskforce-on-federal-consumer-financial-law-releases-its-report/</loc>
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/director-kraningers-remarks-for-the-release-of-the-taskforce-on-federal-consumer-financial-laws-report-and-recommendations/</loc>
@@ -19409,8 +19417,12 @@
     <lastmod>2022-01-10</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-settlement-regarding-the-2019-taskforce-on-federal-consumer-financial-law/</loc>
+    <lastmod>2022-01-14</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-bulletin-to-prevent-unlawful-medical-debt-collection-and-credit-reporting/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
@@ -27882,7 +27894,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/</loc>
-    <lastmod>2021-11-22</lastmod>
+    <lastmod>2022-01-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/answers/</loc>
