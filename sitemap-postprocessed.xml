@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervision-examinations/</loc>
-    <lastmod>2021-12-22</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervision-examinations/compliance-management-review-examination-procedures/</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervision-examinations/education-loan-examination-procedures/</loc>
-    <lastmod>2020-02-11</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervision-examinations/electronic-fund-transfer-act-efta-examination-procedures/</loc>
@@ -4038,7 +4038,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/brightspeed-solutions-inc-and-kevin-howard/</loc>
-    <lastmod>2022-01-18</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/student-loan-pro-judith-noh-syed-faisal-gilani-and-fnza-marketing-llc/</loc>
@@ -4370,7 +4370,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/credit-card-agreement-submission/</loc>
-    <lastmod>2021-11-19</lastmod>
+    <lastmod>2022-01-21</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/credit-card-agreement-submission/credit-card-agreement-submission-faqs/</loc>
@@ -6139,6 +6139,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/cfpb-report-on-diversity-and-inclusion-within-financial-services/</loc>
     <lastmod>2022-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/state-of-bureau-websites-digital-services-2021/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
@@ -8113,10 +8117,6 @@
     <lastmod>2016-12-30</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-be-misled-by-reverse-mortgage-advertising/</loc>
-    <lastmod>2016-12-30</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/know-before-you-owe-youll-get-3-days-to-review-your-mortgage-closing-documents/</loc>
     <lastmod>2017-11-01</lastmod>
   </url>
@@ -8145,8 +8145,8 @@
     <lastmod>2019-04-04</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-fact-check-your-specialty-consumer-report/</loc>
-    <lastmod>2019-02-27</lastmod>
+    <loc>https://www.consumerfinance.gov/about-us/blog/fact-check-your-specialty-consumer-report/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/live-from-milwaukee/</loc>
@@ -8154,10 +8154,6 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/tell-us-about-your-student-debt-stress/</loc>
-    <lastmod>2016-12-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-your-benefits-are-protected-from-garnishment/</loc>
     <lastmod>2016-12-30</lastmod>
   </url>
   <url>
@@ -8182,7 +8178,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-youve-got-options-when-it-comes-to-overdraft/</loc>
-    <lastmod>2016-12-30</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/heres-what-were-hearing-from-servicemembers-and-their-families/</loc>
@@ -8229,8 +8225,8 @@
     <lastmod>2020-01-15</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-3-pension-advance-traps-to-avoid/</loc>
-    <lastmod>2018-02-12</lastmod>
+    <loc>https://www.consumerfinance.gov/about-us/blog/three-pension-advance-traps-to-avoid/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/save-the-date-richmond/</loc>
@@ -8269,8 +8265,8 @@
     <lastmod>2017-09-22</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-three-steps-you-should-take-if-you-have-a-reverse-mortgage/</loc>
-    <lastmod>2016-12-30</lastmod>
+    <loc>https://www.consumerfinance.gov/about-us/blog/three-steps-you-should-take-if-you-have-a-reverse-mortgage/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/special-announcement-for-corinthian-students/</loc>
@@ -8325,16 +8321,12 @@
     <lastmod>2016-04-19</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-student-loan-debt-relief-companies-may-cost-you-thousands-of-dollars-and-drive-you-further-into-debt/</loc>
-    <lastmod>2021-01-11</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/live-from-oklahoma-city/</loc>
     <lastmod>2017-04-03</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-7-ways-to-keep-medical-debt-in-check/</loc>
-    <lastmod>2017-03-02</lastmod>
+    <loc>https://www.consumerfinance.gov/about-us/blog/seven-ways-to-keep-medical-debt-in-check/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/heres-how-medical-debt-hurts-your-credit-report/</loc>
@@ -8529,10 +8521,6 @@
     <lastmod>2017-12-13</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-virtual-currencies-and-what-you-should-know-about-them/</loc>
-    <lastmod>2016-04-19</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/alerting-colleges-about-secret-banking-contracts/</loc>
     <lastmod>2016-04-19</lastmod>
   </url>
@@ -8547,10 +8535,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/closing-the-book-on-colfax/</loc>
     <lastmod>2021-06-24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/</loc>
-    <lastmod>2016-04-19</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/helping-build-financial-capability-across-america/</loc>
@@ -8641,8 +8625,8 @@
     <lastmod>2017-01-25</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-3-things-to-keep-your-retirement-plan-on-track/</loc>
-    <lastmod>2019-09-25</lastmod>
+    <loc>https://www.consumerfinance.gov/about-us/blog/three-things-to-keep-your-retirement-plan-on-track/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/join-us-for-a-forum-to-discuss-consumer-issues-for-veterans/</loc>
@@ -8667,10 +8651,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/two-new-members-for-our-academic-research-council/</loc>
     <lastmod>2016-04-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-co-signers-can-cause-surprise-defaults-on-your-private-student-loans/</loc>
-    <lastmod>2019-07-24</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/explainer-federal-student-loan-interest-rates-to-jump/</loc>
@@ -8957,10 +8937,6 @@
     <lastmod>2016-04-19</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-stop-getting-sidetracked-by-your-student-loan-servicer/</loc>
-    <lastmod>2019-07-24</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/weve-got-answers-to-your-financial-questions/</loc>
     <lastmod>2017-10-18</lastmod>
   </url>
@@ -9095,10 +9071,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/rulemaking-agenda/</loc>
     <lastmod>2020-09-08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-you-dont-have-to-pay-someone-to-help-with-your-student-loan/</loc>
-    <lastmod>2016-04-19</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/final-list-of-rural-and-underserved-counties-for-use-in-2014/</loc>
@@ -9711,10 +9683,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/putting-the-serviceback-in-mortgage-servicing/</loc>
     <lastmod>2016-04-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-accessing-your-scholarships-and-student-loan-funds/</loc>
-    <lastmod>2017-10-03</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/meet-julio-from-florida/</loc>
@@ -10943,10 +10911,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/using-alternative-data-evaluate-creditworthiness/</loc>
     <lastmod>2017-12-13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-bad-information-about-your-college-enrollment-status-can-cost-you/</loc>
-    <lastmod>2021-01-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/managing-your-spending-achieve-your-goals/</loc>
@@ -13141,8 +13105,8 @@
     <lastmod>2021-03-03</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-protect-your-economic-payment-if-your-account-is-overdrawn/</loc>
-    <lastmod>2021-03-17</lastmod>
+    <loc>https://www.consumerfinance.gov/about-us/blog/protect-your-economic-payment-if-your-account-is-overdrawn/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/our-commitment-to-protecting-vulnerable-borrowers/</loc>
@@ -13319,10 +13283,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/we-have-resources-help-avoid-foreclosure/</loc>
     <lastmod>2021-07-22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/consumer-advisory-know-your-rights-under-servicemember-civil-relief-act-scra/</loc>
-    <lastmod>2021-11-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/how-people-you-serve-can-find-help-with-rent-utilities/</loc>
@@ -19417,6 +19377,50 @@
     <lastmod>2021-12-20</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-know-your-rights-under-the-servicemembers-civil-relief-act-scra/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-bad-information-about-your-college-enrollment-status-can-cost-you/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-dont-be-misled-by-reverse-mortgage-advertising/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-student-loan-debt-relief-companies-may-cost-you-thousands-of-dollars-and-drive-you-further-into-debt/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-co-signers-can-cause-surprise-defaults-on-your-private-student-loans/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-stop-getting-sidetracked-by-your-student-loan-servicer/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-you-dont-have-to-pay-someone-to-help-with-your-student-loan/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-accessing-your-scholarships-and-student-loan-funds/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-virtual-currencies-and-what-you-should-know-about-them/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-your-benefits-are-protected-from-garnishment/</loc>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/</loc>
     <lastmod>2021-12-21</lastmod>
   </url>
@@ -19439,6 +19443,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-bands-brightspeed-solutions-and-its-former-ceo-for-supporting-telemarketing-scammers-targeting-older-americans/</loc>
     <lastmod>2022-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-to-examine-colleges-in-house-lending-practices/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
@@ -19491,6 +19499,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/supervisory-it-specialist-regulatory-technology-program-director-22-cfpb-84-mp-85-p/</loc>
     <lastmod>2022-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/supervisory-attorney-advisor-deputy-assistant-director-for-supervision-policy-22-cfpb-74-x/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
@@ -19662,7 +19674,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/office-civil-rights/no-fear-act/</loc>
-    <lastmod>2021-10-29</lastmod>
+    <lastmod>2022-01-21</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/office-civil-rights/diversity-policy/</loc>
