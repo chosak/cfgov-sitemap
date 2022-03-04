@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.consumerfinance.gov/</loc>
     <lastmod>2021-09-13</lastmod>
@@ -2990,7 +2990,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/lrs-litigation-services/</loc>
-    <lastmod>2021-05-06</lastmod>
+    <lastmod>2022-03-03</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/jp-morgan-chase-debt-collection/</loc>
@@ -7170,7 +7170,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2022-03-03</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/</loc>
@@ -13194,7 +13194,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/2020-fair-lending-report-to-congress/</loc>
-    <lastmod>2021-04-14</lastmod>
+    <lastmod>2022-03-03</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/know-your-rights-renter-facing-eviction/</loc>
@@ -19669,10 +19669,6 @@
     <lastmod>2022-02-14</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/congressional-liaison-22-cfpb-119-mp-22-cfpb-120-p/</loc>
-    <lastmod>2022-02-16</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-and-program-analyst-22-cfpb-131-mp/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
@@ -19703,6 +19699,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/senior-policy-analyst-22-cfpb-135-mp-22-cfpb-134-p/</loc>
     <lastmod>2022-03-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/hr-specialist-22-cfpb-146-mpa/</loc>
+    <lastmod>2022-03-03</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
