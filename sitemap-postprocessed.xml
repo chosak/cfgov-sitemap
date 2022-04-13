@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervision-examinations/institutions/</loc>
-    <lastmod>2021-12-22</lastmod>
+    <lastmod>2022-04-12</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervision-examinations/real-estate-settlement-procedures-act-respa-examination-procedures/</loc>
@@ -3622,7 +3622,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/transunion-interactive-inc-transunion-llc-and-transunion/</loc>
-    <lastmod>2021-12-22</lastmod>
+    <lastmod>2022-04-12</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/works-lentz-inc/</loc>
@@ -4179,6 +4179,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/edfinancial-services/</loc>
     <lastmod>2022-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/transunion-dtc-compliance/</loc>
+    <lastmod>2022-04-12</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
@@ -7911,6 +7915,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/events/archive-past-events/april-2022-academic-research-council-meeting/</loc>
     <lastmod>2022-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/events/recruiting-open-house-application-development-lead-featuring-lisa-gelobter/</loc>
+    <lastmod>2022-04-12</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/comment-policy/</loc>
@@ -13591,6 +13599,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/helping-borrowers-hold-mortgage-servicers-accountable/</loc>
     <lastmod>2022-04-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/busting-myths-about-bankruptcy-and-private-student-loans/</loc>
+    <lastmod>2022-04-12</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections/</loc>
@@ -19701,6 +19713,14 @@
     <lastmod>2022-04-08</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-charges-transunion-and-senior-executive-john-danaher-with-violating-law-enforcement-order/</loc>
+    <lastmod>2022-04-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/director-chopras-prepared-remarks-on-the-repeat-offender-lawsuit-against-transunion-and-john-danaher/</loc>
+    <lastmod>2022-04-12</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2021-06-11</lastmod>
   </url>
@@ -19745,10 +19765,6 @@
     <lastmod>2022-03-31</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/section-chief-ccpd-22-cfpb-188-mpa/</loc>
-    <lastmod>2022-04-01</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/senior-research-fellow-22-cfpb-184-x/</loc>
     <lastmod>2022-04-04</lastmod>
   </url>
@@ -19762,10 +19778,6 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/student-trainee-financial-management-22-cfpb-192-x/</loc>
-    <lastmod>2022-04-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/executive-assistant-22-cfpb-187-mp/</loc>
     <lastmod>2022-04-04</lastmod>
   </url>
   <url>
@@ -21018,7 +21030,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/transunion-interactive-inc-transunion-llc-and-transunion/</loc>
-    <lastmod>2021-12-22</lastmod>
+    <lastmod>2022-04-12</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/works-lentz-inc/</loc>
