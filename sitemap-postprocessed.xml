@@ -626,7 +626,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/</loc>
-    <lastmod>2022-07-05</lastmod>
+    <lastmod>2022-07-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/ability-repay-qualified-mortgage-rule/</loc>
@@ -3054,7 +3054,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/medical-debt/</loc>
-    <lastmod>2022-04-20</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/</loc>
@@ -4323,6 +4323,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/populus-financial-group-inc-d-b-a-ace-cash-express-inc/</loc>
     <lastmod>2022-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/bank-of-america-na-2/</loc>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
@@ -6477,6 +6481,10 @@
     <lastmod>2022-06-13</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/credit-card-line-decreases/</loc>
+    <lastmod>2022-07-14</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
     <lastmod>2020-10-16</lastmod>
   </url>
@@ -8149,7 +8157,7 @@
     <lastmod>2022-06-15</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/events/open-house-engineers-data-scientists-ux-designers-product-managers-needed-at-the-cfpb/</loc>
+    <loc>https://www.consumerfinance.gov/about-us/events/archive-past-events/open-house-engineers-data-scientists-ux-designers-product-managers-needed-at-the-cfpb/</loc>
     <lastmod>2022-07-11</lastmod>
   </url>
   <url>
@@ -20142,7 +20150,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-statement-of-director-rohit-chopra-before-the-house-committee-on-financial-services/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-obtains-ban-against-debt-relief-ceo-daniel-crenshaw/</loc>
@@ -20273,6 +20281,14 @@
     <lastmod>2022-07-12</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/federal-regulators-fine-bank-of-america-225-million-over-botched-disbursement-of-state-unemployment-benefits-at-height-of-pandemic/</loc>
+    <lastmod>2022-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/written-testimony-of-james-s-rice-assistant-director-office-of-servicemember-affairs-before-the-house-committee-on-oversight-and-reform-subcommittee-on-national-security/</loc>
+    <lastmod>2022-07-14</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2022-07-07</lastmod>
   </url>
@@ -20311,10 +20327,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-and-program-analyst-enforcement-compliance/</loc>
     <lastmod>2019-02-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/supervisory-it-specialist-data-engineering-lead-22-cfpb-286-mp-287-p/</loc>
-    <lastmod>2022-06-29</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/it-specialist-appsw-enterprise-solution-delivery-manager-22-cfpb-292-mp/</loc>
@@ -20390,7 +20402,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/leadership-calendar/</loc>
-    <lastmod>2022-07-07</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/about-director/</loc>
@@ -21042,7 +21054,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/prepare/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/prepare/check-your-credit/</loc>
@@ -21078,7 +21090,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/explore/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/explore/learn-about-loan-costs/</loc>
@@ -21118,7 +21130,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/compare/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/compare/request-multiple-loan-estimates/</loc>
@@ -21142,7 +21154,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/close/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/close/submit-documents-and-answer-lender-requests/</loc>
@@ -21923,6 +21935,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/ram-payment-llc-et-al/</loc>
     <lastmod>2022-05-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/bank-of-america-na-2/</loc>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-proceeding-forms-and-information/</loc>
@@ -26702,19 +26718,19 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/types-fraud-identity-theft/</loc>
-    <lastmod>2020-02-22</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/defining-fraud-identity-theft/</loc>
-    <lastmod>2020-02-22</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/reporting-fraud-theft-to-authorities/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/giving-advice-consumer-protection/</loc>
-    <lastmod>2020-02-22</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/differentiating-secured-unsecured-loans/</loc>
@@ -26742,7 +26758,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/acting-fraud-identity-theft/</loc>
-    <lastmod>2020-02-22</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/distinguishing-between-credit-myths-realities/</loc>
@@ -26757,28 +26773,28 @@
     <lastmod>2022-06-23</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/speaking-publicly-about-consumer-financial-protection-rights/</loc>
-    <lastmod>2020-02-25</lastmod>
+    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/speaking-publicly-about-consumer-rights/</loc>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/handling-lost-stolen-card/</loc>
-    <lastmod>2020-02-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/protecting-your-money-campaign/</loc>
-    <lastmod>2020-02-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/playing-credit-debit-game/</loc>
-    <lastmod>2020-02-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/creating-psa-about-credit-cards/</loc>
-    <lastmod>2020-02-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/cosigning-loans-sharing-credit/</loc>
-    <lastmod>2021-11-17</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/understanding-how-insurance-works-lucy/</loc>
@@ -27202,75 +27218,75 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/creating-vision-board-careers-arts/</loc>
-    <lastmod>2021-05-25</lastmod>
+    <lastmod>2022-07-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/creating-vision-board-careers-sciences/</loc>
-    <lastmod>2021-05-25</lastmod>
+    <lastmod>2022-07-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/creating-vision-board-careers-healthcare/</loc>
-    <lastmod>2021-05-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/creating-vision-board-careers-math/</loc>
-    <lastmod>2021-05-25</lastmod>
+    <lastmod>2022-07-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/creating-vision-board-careers-education/</loc>
-    <lastmod>2021-05-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/comparing-salaries/</loc>
-    <lastmod>2021-05-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/asking-loan/</loc>
-    <lastmod>2020-02-04</lastmod>
+    <lastmod>2022-07-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/understanding-ways-pay-education-after-high-school/</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2022-07-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/understanding-minimum-payments/</loc>
-    <lastmod>2020-02-04</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/paying-science-expedition-using-credit/</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2022-07-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/avoiding-debt/</loc>
-    <lastmod>2020-02-04</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/building-good-borrowing-reputation/</loc>
-    <lastmod>2020-09-28</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/being-responsible-borrower/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/telling-difference-between-loan-myths-and-realities/</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/getting-credit-card-and-using-it-wisely/</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/analyzing-credit-card-statements/</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/managing-credit-card-payments/</loc>
-    <lastmod>2020-02-10</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/borrowing-money-house/</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/bouncing-ball-money-choices/</loc>
@@ -27298,27 +27314,27 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/figuring-out-how-much-tip/</loc>
-    <lastmod>2021-05-25</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/understanding-credit-scores/</loc>
-    <lastmod>2020-02-28</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/paying-after-school-activities/</loc>
-    <lastmod>2020-02-28</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/paying-pet/</loc>
-    <lastmod>2020-02-28</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/calculating-energy-costs/</loc>
-    <lastmod>2020-03-20</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/comparing-video-game-subscriptions/</loc>
-    <lastmod>2020-02-28</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/angela-builds-credit/</loc>
@@ -27746,11 +27762,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/age-friendly-promotional-toolkit-for-banks/</loc>
-    <lastmod>2021-12-20</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/age-friendly-promotional-toolkit-for-credit-unions/</loc>
-    <lastmod>2021-12-20</lastmod>
+    <lastmod>2022-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/financial-security-as-you-age/</loc>
