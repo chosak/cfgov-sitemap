@@ -6605,10 +6605,6 @@
     <lastmod>2022-10-07</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/research-reports/2022-annual-report-cfpb-education-loan-ombudsman/</loc>
-    <lastmod>2022-10-20</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
     <lastmod>2022-08-19</lastmod>
   </url>
@@ -6678,7 +6674,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/2022-cfpb-research-conference/</loc>
-    <lastmod>2022-06-21</lastmod>
+    <lastmod>2022-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/2022-cfpb-research-conference/agenda/</loc>
+    <lastmod>2022-10-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/2022-cfpb-research-conference/call-for-papers/</loc>
@@ -20661,6 +20661,10 @@
     <lastmod>2022-10-20</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/director-chopra-prepared-remarks-at-money-20-20/</loc>
+    <lastmod>2022-10-25</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2022-07-29</lastmod>
   </url>
@@ -20705,24 +20709,12 @@
     <lastmod>2019-02-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/supervisions-and-examinations-regional-director-22-cfpb-392-mp-393-p/</loc>
-    <lastmod>2022-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/commissioned-compliance-examiner-22-cfpb-376-mpa/</loc>
     <lastmod>2022-10-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/commissioned-compliance-examiner-22-cfpb-377-mpa/</loc>
     <lastmod>2022-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/front-end-web-developer-22-cfpb-384-p/</loc>
-    <lastmod>2022-10-14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/chief-communications-officer-and-assistant-director-office-of-public-affairs-23-cfpb-24-mpa/</loc>
-    <lastmod>2022-10-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/credit-card-program-manager-23-cfpb-11-mp-12-p/</loc>
@@ -34463,5 +34455,9 @@
   <url>
     <loc>https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</loc>
     <lastmod>2022-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/2022-annual-report-cfpb-education-loan-ombudsman/</loc>
+    <lastmod>2022-10-20</lastmod>
   </url>
 </urlset>
