@@ -4142,7 +4142,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/my-loan-doctor-llc-edgar-radjabli/</loc>
-    <lastmod>2020-07-13</lastmod>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/timemark-et-al/</loc>
@@ -4675,6 +4675,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/petitions/crystal-g-moroney/</loc>
     <lastmod>2022-06-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/petitions/nexo-financial-llc/</loc>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/information-industry-whistleblowers/</loc>
@@ -6858,7 +6862,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/dustin-beckett/</loc>
-    <lastmod>2022-09-02</lastmod>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/claire-brennecke/</loc>
@@ -6905,19 +6909,11 @@
     <lastmod>2022-09-02</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/melissa-knoll/</loc>
-    <lastmod>2022-09-02</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/young-jo/</loc>
     <lastmod>2022-09-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/patrick-lapid/</loc>
-    <lastmod>2022-09-02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/nicholas-li/</loc>
     <lastmod>2022-09-02</lastmod>
   </url>
   <url>
@@ -6977,10 +6973,6 @@
     <lastmod>2022-09-02</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/isaac-mcfarlin-jr/</loc>
-    <lastmod>2022-09-02</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/laszlo-sandor/</loc>
     <lastmod>2022-09-02</lastmod>
   </url>
@@ -6990,7 +6982,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/jonathan-hawkins/</loc>
-    <lastmod>2022-09-02</lastmod>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/helen-banga/</loc>
@@ -14373,6 +14365,14 @@
     <lastmod>2022-11-30</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/cfpb-emite-directrices-para-enfrentar-practicas-deficientes-de-investigacion-por-companias-de-informes-del-consumidor/</loc>
+    <lastmod>2022-12-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/the-cfpb-ombudsmans-office-shares-its-fy2022-annual-report/</loc>
+    <lastmod>2022-12-01</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
     <lastmod>2022-04-25</lastmod>
   </url>
@@ -20754,7 +20754,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-guidance-to-address-shoddy-investigation-practices-by-consumer-reporting-companies/</loc>
-    <lastmod>2022-11-10</lastmod>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-publishes-new-bulletin-analyzing-rise-in-crypto-asset-complaints/</loc>
@@ -20801,6 +20801,10 @@
     <lastmod>2022-11-29</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-19-million-action-against-loan-doctor-and-edgar-radjabli-for-offering-fake-high-yield-bank-accounts/</loc>
+    <lastmod>2022-12-01</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2022-07-29</lastmod>
   </url>
@@ -20834,7 +20838,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/students-and-graduates/cfpb-directors-financial-analyst-program/</loc>
-    <lastmod>2022-11-01</lastmod>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/</loc>
@@ -20859,10 +20863,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/economist-23-cfpb-36-dh/</loc>
     <lastmod>2022-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/lead-quality-management-program-analyst-23-cfpb-44-mp23-cfpb-45-p/</loc>
-    <lastmod>2022-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/enforcement-economist-23-cfpb-53-dh/</loc>
@@ -21002,7 +21002,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/cfpb-ombudsman/ombudsman-annual-reports/</loc>
-    <lastmod>2022-07-29</lastmod>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/cfpb-ombudsman/ombudsman-faqs/</loc>
@@ -27194,7 +27194,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/</loc>
-    <lastmod>2022-11-30</lastmod>
+    <lastmod>2022-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/</loc>
