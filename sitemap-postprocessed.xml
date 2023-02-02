@@ -1190,11 +1190,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/rules-under-development/registry-of-nonbank-covered-persons-subject-to-agency-court-orders/</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/rules-under-development/registry-of-supervised-nonbanks-that-use-form-contracts-to-impose-terms-and-conditions-that-seek-to-waive-or-limit-consumer-legal-protections/</loc>
     <lastmod>2023-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/rules-under-development/credit-card-penalty-fees-regulation-z/</loc>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/</loc>
@@ -1779,6 +1783,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/open-notices/request-for-information-regarding-consumer-credit-card-market/</loc>
     <lastmod>2023-01-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/open-notices/registry-of-nonbank-covered-persons-subject-to-agency-court-orders/</loc>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/archive-closed/</loc>
@@ -2929,6 +2937,10 @@
     <lastmod>2022-11-01</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/credit-card-penalty-fees-regulation-z/</loc>
+    <lastmod>2023-02-01</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/competition-innovation/</loc>
     <lastmod>2022-12-29</lastmod>
   </url>
@@ -3050,15 +3062,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/consumer-advisory-board/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/community-bank-advisory-council/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/credit-union-advisory-council/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/academic-research-council/</loc>
@@ -20877,6 +20889,14 @@
     <lastmod>2023-01-24</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-proposes-rule-to-rein-in-excessive-credit-card-late-fees/</loc>
+    <lastmod>2023-02-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/director-chopras-remarks-on-press-call-for-credit-card-late-fees-nprm/</loc>
+    <lastmod>2023-02-01</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2022-12-29</lastmod>
   </url>
@@ -20921,18 +20941,6 @@
     <lastmod>2019-02-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/supervisory-examiner-assistant-regional-director-23-cfpb-61-mpa/</loc>
-    <lastmod>2023-01-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/regional-administrative-officer-23-cfpb-92-mpa/</loc>
-    <lastmod>2023-01-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/supervisory-examinerfield-manager-commissioned-field-examination-manager-23-cfpb-93-mpa/</loc>
-    <lastmod>2023-01-09</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/attorney-advisor-general-23-cfpb-97-x/</loc>
     <lastmod>2023-01-25</lastmod>
   </url>
@@ -20973,40 +20981,20 @@
     <lastmod>2018-06-27</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/</loc>
-    <lastmod>2023-01-10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/operations/</loc>
-    <lastmod>2022-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/supervision-enforcement-fair-lending/</loc>
-    <lastmod>2022-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/supervision-enforcement-fair-lending/supervision-regional-directors/</loc>
-    <lastmod>2023-01-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/legal/</loc>
-    <lastmod>2022-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/</loc>
-    <lastmod>2022-12-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/consumer-education-engagement/</loc>
-    <lastmod>2022-11-14</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/leadership-calendar/</loc>
     <lastmod>2022-12-21</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/about-director/</loc>
     <lastmod>2022-05-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/</loc>
+    <lastmod>2023-02-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/supervision-regional-directors/</loc>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/leadership-calendar/</loc>
@@ -21615,6 +21603,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/stock-act-notifications-of-future-employment-discussions-or-agreement-and-recusal/</loc>
     <lastmod>2022-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/cfpb-annual-foia-report-fy2022/</loc>
+    <lastmod>2023-02-01</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/tribal/</loc>
