@@ -570,7 +570,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/consumer-lending-resources/payday-lending-rule/payday-lending-rule-faqs/</loc>
-    <lastmod>2020-09-03</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/</loc>
@@ -690,7 +690,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/secure-fair-enforcement-for-mortgage-licensing-act/secure-and-fair-enforcement-mortgage-licensing-act-faqs/</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/mortserv/</loc>
@@ -3098,7 +3098,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/community-banks-credit-unions/</loc>
-    <lastmod>2016-04-21</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/regulations/</loc>
@@ -3218,11 +3218,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/consumer-education-financial-literacy/</loc>
-    <lastmod>2019-04-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/allocation-schedule/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/</loc>
@@ -4178,7 +4178,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/enforcement-action-definitions/</loc>
-    <lastmod>2020-03-10</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/specialized-loan-servicing-llc/</loc>
@@ -4774,7 +4774,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/know-you-owe-credit-cards/credit-card-contract-definitions/</loc>
-    <lastmod>2017-04-10</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/</loc>
@@ -4782,7 +4782,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/tccp-survey-faqs/</loc>
-    <lastmod>2022-01-31</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/credit-card-agreement-submission/</loc>
@@ -4802,7 +4802,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/national-survey-mortgage-originations/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/</loc>
@@ -6581,6 +6581,10 @@
     <lastmod>2022-03-16</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-medical-debt-among-older-adults-before-pandemic/full-report/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/gao-ig-act-reporting-2022/</loc>
     <lastmod>2022-02-28</lastmod>
   </url>
@@ -6657,12 +6661,20 @@
     <lastmod>2022-05-10</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-profiles-of-older-adults-living-in-mobile-homes/full-report/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/fair-lending-report-of-the-consumer-financial-protection-bureau-2021/</loc>
     <lastmod>2022-05-06</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-financial-challenges-faced-by-recently-widowed-older-adults/</loc>
     <lastmod>2022-05-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-financial-challenges-faced-by-recently-widowed-older-adults/full-report/</loc>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/cfpb-diversity-equity-inclusion-and-accessibility-strategic-plan/</loc>
@@ -6698,7 +6710,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/issue-spotlight-nursing-home-debt-collection/</loc>
-    <lastmod>2022-09-08</lastmod>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/issue-spotlight-nursing-home-debt-collection/full-report/</loc>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/buy-now-pay-later-market-trends-and-consumer-impacts/</loc>
@@ -6777,12 +6793,24 @@
     <lastmod>2023-01-12</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/2022-cfpb-annual-employee-survey-results/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/banks-overdraft-nsf-fee-revenue-declines-significantly-compared-to-pre-pandemic-levels/</loc>
     <lastmod>2023-02-07</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-suspicious-activity-reports-on-elder-financial-exploitation/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-suspicious-activity-reports-on-elder-financial-exploitation/full-report/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
-    <lastmod>2022-08-19</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/</loc>
@@ -6822,7 +6850,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/research-conference-privacy-act-statement/</loc>
-    <lastmod>2019-12-11</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/2019-cfpb-research-conference/</loc>
@@ -6834,7 +6862,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/registration-confirmation/</loc>
-    <lastmod>2019-11-13</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/2021-cfpb-research-conference/</loc>
@@ -7106,7 +7134,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/making-ends-meet-survey/</loc>
-    <lastmod>2023-01-17</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/</loc>
@@ -7174,7 +7202,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/email-signup/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-complaints/</loc>
@@ -7218,11 +7246,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/policy-compliance/know-you-owe-mortgages/extra-three-day-reviews-are-unlikely/</loc>
-    <lastmod>2016-08-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/policy-compliance/know-you-owe-mortgages/new-disclosures-streamline-process/</loc>
-    <lastmod>2020-09-25</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/</loc>
@@ -7702,7 +7730,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/notices-after-you-applied-for-credit/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/</loc>
@@ -7726,31 +7754,31 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q3-2012/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q2-2012/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q1-2012/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q4-2011/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q3-2011/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q2-2011/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q1-2011/</loc>
-    <lastmod>2016-10-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/funds-transfer-requests/</loc>
@@ -8393,8 +8421,12 @@
     <lastmod>2023-02-09</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/events/enforcers-training-how-to-build-a-technologist-team/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/comment-policy/</loc>
-    <lastmod>2022-01-11</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/</loc>
@@ -14190,7 +14222,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/if-you-used-us-equity-advantages-auto-loan-payment-accelerator-program-a-check-may-be-on-the-way/</loc>
-    <lastmod>2022-09-14</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/este-alerta-con-estafadores-haciendose-pasar-por-nosotros/</loc>
@@ -14379,6 +14411,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/our-agency-wide-effort-to-listen-to-the-people-we-serve/</loc>
     <lastmod>2023-02-09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/si-uso-el-programa-us-equity-advantages-auto-loan-payment-accelerator-podria-recibir-un-cheque-de-nosotros-en-la-cfpb/</loc>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
@@ -20886,7 +20922,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-proposes-rule-to-establish-public-registry-of-terms-and-conditions-in-form-contracts-that-claim-to-waive-or-limit-consumer-rights-and-protections/</loc>
-    <lastmod>2023-02-02</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-to-halt-debt-collection-mill-from-bombarding-consumers-with-junk-lawsuits/</loc>
@@ -20925,6 +20961,10 @@
     <lastmod>2023-02-07</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/la-cfpb-propone-normas-para-establecer-un-registro-publico-de-terminos-y-condiciones-en-las-formas-de-contratos-que-puedan-escindir-o-limitar-los-derechos-y-protecciones-al-consumidor/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2022-12-29</lastmod>
   </url>
@@ -20950,7 +20990,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/students-and-graduates/privacy-act-statement/</loc>
-    <lastmod>2017-10-13</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/students-and-graduates/cfpb-honors-attorney-program/</loc>
@@ -21318,19 +21358,19 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/email-privacy-act-statement/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/servicemember-email-sign-privacy-act-statement/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/email-campaign-privacy-act-statement/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/general-request-inquiry-privacy-act-statement/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/privacy-act-statement/</loc>
@@ -21338,15 +21378,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/research-email-privacy-act-statement/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/sms-campaign-privacy-act-statement/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/records-disclosure-privacy-act-statement/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/foia-requests/</loc>
@@ -21642,7 +21682,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/tribal/</loc>
-    <lastmod>2019-01-07</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/activity-log/</loc>
@@ -21658,7 +21698,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/privacy-act-statement/</loc>
-    <lastmod>2019-01-15</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/what-are-all-costs-buying-home/</loc>
@@ -21667,14 +21707,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/your-down-payment-decision/</loc>
     <lastmod>2019-06-03</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/owning-a-home/help-us-improve/paperwork-reduction-act/</loc>
-    <lastmod>2019-11-07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/owning-a-home/help-us-improve/privacy-act-statement/</loc>
-    <lastmod>2019-01-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/kathis-story/</loc>
@@ -21826,7 +21858,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/newsletter-signup/</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/loan-options/</loc>
@@ -21866,7 +21898,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/learnmore/</loc>
-    <lastmod>2022-12-22</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/mortgagehelp/</loc>
@@ -22626,11 +22658,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/complaint/process/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/complaint/data-use/</loc>
-    <lastmod>2022-03-31</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/</loc>
@@ -27270,7 +27302,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/company-signup/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/</loc>
@@ -27286,7 +27318,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/curriculum-review/</loc>
-    <lastmod>2022-09-22</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/learn/</loc>
@@ -28418,7 +28450,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/money-monsters/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/assess/</loc>
@@ -28442,7 +28474,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/email-signup/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/library-resources/</loc>
@@ -28458,11 +28490,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/library-resources/program-ideas/money-as-you-grow-bookshelf/gather-books-and-order-materials/</loc>
-    <lastmod>2018-10-09</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/library-resources/program-ideas/money-as-you-grow-bookshelf/get-word-out-patrons/</loc>
-    <lastmod>2020-02-24</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/library-resources/program-ideas/money-as-you-grow-bookshelf/make-it-your-own/</loc>
@@ -28498,7 +28530,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/age-friendly-promotional-toolkit-for-credit-unions/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/age-friendly-promotional-toolkit-for-banks/</loc>
@@ -28586,27 +28618,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/reporting-elder-financial-abuse-guide/</loc>
-    <lastmod>2022-08-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/data-spotlight-suspicious-activity-reports-on-elder-financial-exploitation/</loc>
-    <lastmod>2023-01-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/data-spotlight-medical-debt-among-older-adults-before-pandemic/</loc>
-    <lastmod>2023-01-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/data-spotlight-profiles-of-older-adults-living-in-mobile-homes/</loc>
-    <lastmod>2023-01-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/data-spotlight-financial-challenges-faced-by-recently-widowed-older-adults/</loc>
-    <lastmod>2023-01-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/issue-spotlight-nursing-home-debt-collection/</loc>
-    <lastmod>2023-01-11</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/know-your-rights-caregivers-and-nursing-home-debt/</loc>
@@ -28710,7 +28722,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/conference-registration/finex-conference-privacy-act-statement/</loc>
-    <lastmod>2018-09-18</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/join-cfpb-finex-network/</loc>
@@ -28762,7 +28774,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/sample-letters-dispute-credit-report-information/</loc>
-    <lastmod>2022-03-14</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/</loc>
@@ -29070,7 +29082,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/debt-email-sign-privacy-act-statement/</loc>
-    <lastmod>2019-01-15</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/answers/</loc>
@@ -29078,7 +29090,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/get-handle-debt-boot-camp/</loc>
-    <lastmod>2020-05-22</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/</loc>
@@ -29206,7 +29218,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/email-signup/</loc>
-    <lastmod>2020-07-28</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/mortgages/</loc>
@@ -29234,7 +29246,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/save-as-pdf-instructions/</loc>
-    <lastmod>2018-11-27</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/</loc>
@@ -29366,15 +29378,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/your-financial-path-to-graduation/how-we-got-these-numbers/</loc>
-    <lastmod>2020-07-15</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/choose-a-student-loan/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/manage-your-college-money/</loc>
-    <lastmod>2022-05-27</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/repay-student-debt/</loc>
@@ -34714,7 +34726,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/fair-lending/</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2023-02-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/get-out-of-forbearance-what-to-do-next/</loc>
