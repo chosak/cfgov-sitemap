@@ -738,7 +738,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/advisory-opinion-program/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-04-26</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/registration-and-submission-programs/</loc>
@@ -1763,6 +1763,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/notice-of-availability-of-revised-methodology-for-determining-average-prime-offer-rates/</loc>
     <lastmod>2023-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/final-rules/fair-debt-collection-practices-act-regulation-f-time-barred-debt/</loc>
+    <lastmod>2023-04-26</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/small-business-review-panels/</loc>
@@ -7185,6 +7189,10 @@
     <lastmod>2023-04-13</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/</loc>
+    <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
     <lastmod>2023-02-10</lastmod>
   </url>
@@ -9050,7 +9058,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/events/field-hearing-on-zombie-second-mortgages-director-chopra-brooklyn-new-york/</loc>
-    <lastmod>2023-04-21</lastmod>
+    <lastmod>2023-04-26</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/comment-policy/</loc>
@@ -15187,6 +15195,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/credit-card-debt-hits-new-high-cfpb-is-focusing-on-ways-to-increase-competition-and-reduce-costs/</loc>
     <lastmod>2023-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/zombie-second-mortgages-when-collectors-come-for-long-forgotten-home-loans/</loc>
+    <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/office-of-research-who-gets-sued-in-civil-courts-civil-judgments-are-not-evenly-distributed/</loc>
+    <lastmod>2023-04-26</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
@@ -21873,12 +21889,28 @@
     <lastmod>2023-04-21</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-joins-other-financial-regulatory-agencies-in-issuing-statement-on-completing-the-libor-transition/</loc>
+    <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-federal-partners-confirm-automated-systems-advanced-technology-not-an-excuse-for-lawbreaking-behavior/</loc>
     <lastmod>2023-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/director-chopra-prepared-remarks-on-interagency-enforcement-policy-statement-artificial-intelligence/</loc>
     <lastmod>2023-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-guidance-to-protect-homeowners-from-illegal-collection-tactics-on-zombie-mortgages/</loc>
+    <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-of-director-rohit-chopra-on-zombie-mortgage-debt/</loc>
+    <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/joint-statement-on-completing-the-libor-transition/</loc>
+    <lastmod>2023-04-26</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
@@ -28223,6 +28255,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-things-can-i-negotiate-when-shopping-for-a-car-or-auto-loan-en-2132/</loc>
     <lastmod>2022-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-zombie-second-mortgage-en-2133/</loc>
+    <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-a-debt-collector-contacts-me-about-a-mortgage-i-thought-was-already-satisfied-or-written-off-en-2134/</loc>
+    <lastmod>2023-04-26</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/arbitration-rule/</loc>
@@ -35361,51 +35401,11 @@
     <lastmod>2022-12-30</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/maneje-sus-finanzas/opciones-de-cobro-de-desempleo/</loc>
-    <lastmod>2021-07-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/maneje-sus-finanzas/su-credito-y-la-ley-cares/</loc>
-    <lastmod>2021-07-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/maneje-sus-finanzas/guia-de-pagos-por-impacto-economico/</loc>
-    <lastmod>2022-08-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/es/coronavirus/maneje-sus-finanzas/consejos-maneje-prestamos-hechos-o-recibidos-de-familiares/</loc>
     <lastmod>2021-07-13</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/prestamos-estudiantiles/</loc>
-    <lastmod>2022-08-14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/evitar-estafas/</loc>
-    <lastmod>2022-08-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/padres-e-hijos/</loc>
-    <lastmod>2021-07-29</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/es/coronavirus/adultos-mayores/</loc>
-    <lastmod>2021-07-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/propietarios-de-peque%C3%B1os-negocios/</loc>
-    <lastmod>2022-08-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/otros-recursos-federales/</loc>
-    <lastmod>2022-08-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/tarjetas-debito-prepagas-pago-por-impacto-economico/</loc>
-    <lastmod>2021-07-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/coronavirus/pagos-por-impacto-economico-no-declarantes/</loc>
     <lastmod>2021-07-29</lastmod>
   </url>
   <url>
@@ -35587,18 +35587,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/coronavirus/managing-your-finances/tips-for-managing-family-lending-and-borrowing/</loc>
     <lastmod>2022-08-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/coronavirus/student-loans/</loc>
-    <lastmod>2023-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/coronavirus/our-work/</loc>
-    <lastmod>2020-12-17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/coronavirus/other-federal-resources/</loc>
-    <lastmod>2022-08-29</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/coronavirus/mortgage-forbearance-during-covid-19-what-know-what-do/</loc>
