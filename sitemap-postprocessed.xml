@@ -2326,7 +2326,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-report-en-309/</loc>
-    <lastmod>2023-06-01</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-home-is-underwater-and-i-received-a-permanent-change-of-station-pcs-order-is-there-assistance-to-help-me-sell-my-home-without-owing-money-after-the-sale-en-308/</loc>
@@ -4914,7 +4914,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/</loc>
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/</loc>
@@ -5406,7 +5406,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/sending-money/es/</loc>
-    <lastmod>2022-08-30</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/sending-money/zh/</loc>
@@ -9317,16 +9317,16 @@
     <lastmod>2023-06-27</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/enforcement/actions/bank-of-america-n-a-sales-practices-credit-card-rewards/</loc>
-    <lastmod>2023-07-11</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/bank-of-america-n-a-fees/</loc>
-    <lastmod>2023-07-11</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/prehired-llc-et-al/</loc>
     <lastmod>2023-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/bank-of-america-n-a-sales-practices-credit-card-rewards/</loc>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
@@ -12802,11 +12802,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/</loc>
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/</loc>
-    <lastmod>2023-06-14</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/trends-in-overdraftnon-sufficient-fund-nsf-fee-revenue-and-practices/</loc>
@@ -14073,8 +14073,12 @@
     <lastmod>2023-07-11</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/events/data-enforcers-convening-interviewing-and-deposing-technical-witnesses/</loc>
+    <loc>https://www.consumerfinance.gov/about-us/events/archive-past-events/data-enforcers-convening-interviewing-and-deposing-technical-witnesses/</loc>
     <lastmod>2023-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/events/cfpb-regcast-institutional-coverage-under-the-small-business-lending-rule/</loc>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/comment-policy/</loc>
@@ -14126,7 +14130,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/mortgage-moves-where-will-you-start/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/information-for-those-involved-with-pension-funding-llc-and-pension-income-llc/</loc>
@@ -14318,7 +14322,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/servicemembers-protecting-your-credit-when-youre-away-from-home/</loc>
-    <lastmod>2016-04-19</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/new-students-should-look-closely-at-college-sponsored-bank-accounts-and-shop-around/</loc>
@@ -14378,7 +14382,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/debt-settlement-company-morgan-drexen-is-no-longer-in-business-what-you-should-know/</loc>
-    <lastmod>2017-09-01</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/you-have-the-right-to-free-unbiased-financial-information/</loc>
@@ -14758,7 +14762,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/reminder-for-steps-you-can-take-if-you-think-your-credit-or-debit-card-data-was-hacked/</loc>
-    <lastmod>2016-04-19</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/disputing-debt-you-never-owed-williams-story/</loc>
@@ -14946,7 +14950,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/prepaid-cards-help-design-a-new-disclosure/</loc>
-    <lastmod>2016-12-30</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/save-the-date-nashville/</loc>
@@ -15174,7 +15178,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/trick-or-treating-for-your-money/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/making-regulations-easier-to-use/</loc>
@@ -15406,7 +15410,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/should-i-refinance-my-student-loan/</loc>
-    <lastmod>2022-08-08</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/live-from-los-angeles-ca/</loc>
@@ -16726,7 +16730,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/you-have-right-ask-questions-and-get-answers/</loc>
-    <lastmod>2017-10-18</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/research-finds-one-five-auto-title-loan-borrowers-have-their-vehicle-seized/</loc>
@@ -16758,7 +16762,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/3-things-you-should-consider-co-signing-auto-loan/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/arm-yourself-knowledge-when-shopping-auto-loan/</loc>
@@ -16894,7 +16898,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/tomo-prestamos-estudiantiles-para-asistir-al-itt-tech-pues-debe-saber-que-tiene-opciones/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/be-your-familys-financial-action-hero-during-emergency/</loc>
@@ -17014,7 +17018,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/who-are-credit-invisible/</loc>
-    <lastmod>2017-12-13</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/fair-lending-priorities-new-year/</loc>
@@ -17106,7 +17110,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/bad-credit-or-no-credit-when-you-want-buy-home/</loc>
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/check-our-new-list-see-if-your-credit-card-offers-you-free-access-one-your-credit-scores/</loc>
@@ -19550,7 +19554,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/using-special-purpose-credit-programs-to-serve-unmet-credit-needs/</loc>
-    <lastmod>2022-07-19</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/rising-car-prices-means-more-auto-loan-debt/</loc>
@@ -20074,7 +20078,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/consumidores-perjudicados-por-servicios-fraudulentos-de-alivio-de-deuda-de-prestamos-estudiantiles-recibiran-compensacion/</loc>
-    <lastmod>2023-03-07</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/entregaremos-95-millones-en-reparaciones-para-consumidores-perjudicados-por-premier-student-loan-center/</loc>
@@ -20266,7 +20270,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/office-of-research-blog-update-on-student-loan-borrowers-as-payment-suspension-set-to-expire/</loc>
-    <lastmod>2023-06-07</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/we-are-extending-the-deadline-for-comments-about-data-brokers/</loc>
@@ -20310,7 +20314,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/office-of-research-blog-how-are-mortgages-with-covid-related-forbearance-performing-in-2023/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/the-cfpbs-2022-fair-lending-annual-report-to-congress/</loc>
@@ -20326,7 +20330,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/initial-fresh-start-program-changes-followed-by-increased-credit-scores-for-affected-borrowers/</loc>
-    <lastmod>2023-07-13</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/que-hacer-cuando-los-cobradores-lleguen-a-cobrar-prestamos-hipotecarios-olvidados/</loc>
@@ -26114,7 +26118,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-to-prevent-avoidable-foreclosures/</loc>
-    <lastmod>2023-04-04</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-sues-pawn-lenders-for-cheating-military-families/</loc>
@@ -27177,6 +27181,10 @@
     <lastmod>2023-07-06</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/la-cfpb-demanda-a-james-y-melissa-carnes-por-ocultar-dinero-para-evitar-pagar-por-negocio-ilegal-de-prestamos-del-dia-de-pago/</loc>
+    <lastmod>2023-07-14</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/bank-of-america-for-illegally-charging-junk-fees-withholding-credit-card-rewards-opening-fake-accounts/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
@@ -27190,7 +27198,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/state-partners-and-cfpb-sue-prehired-for-illegal-student-lending-practices/</loc>
-    <lastmod>2023-07-13</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
@@ -29294,7 +29302,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/zh/debt-collection-key-terms/</loc>
-    <lastmod>2023-06-12</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/zh/fraud-key-terms/</loc>
@@ -29314,7 +29322,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/zh/coronavirus/mortgage-and-housing-assistance/renter-protections/cdc-eviction-protections/</loc>
-    <lastmod>2023-03-01</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/zh/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/</loc>
@@ -29398,7 +29406,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ht/</loc>
-    <lastmod>2023-06-16</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ht/auto-loan-key-terms/</loc>
@@ -29702,7 +29710,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/mi-universidad-cerro-y-ahora-no-puedo-graduarme-que-pasa-con-mis-prestamos-estudiantiles-es-1889/</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/mi-escuela-cerro-y-ahora-no-puedo-graduarme-que-sucede-con-mis-prestamos-estudiantiles-privados-es-1887/</loc>
@@ -29954,7 +29962,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/deberia-refinanciar-mi-prestamo-estudiantil-federal-con-uno-privado-a-menor-tasa-de-interes-es-1689/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/debo-utilizar-un-prestamo-sobre-el-valor-neto-de-la-vivienda-para-refinanciar-mis-prestamos-estudiantiles-con-una--tasa-de-interes-menor-es-1685/</loc>
@@ -31962,7 +31970,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/me-gustaria-refinanciar-pero-creo-que-el-valor-de-mi-vivienda-ha-bajado-hay-algun-programa-para-mi-es-279/</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/una-persona-que-contrate-para-ayudarme-con-la-hipoteca-me-aconsejo-dejar-de-pagar-mi-prestamo-hipotecario-para-entonces-calificar-para-una-modificacion-de-prestamo-tengo-que-hacer-esto-es-275/</loc>
@@ -32562,7 +32570,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/le-envie-mi-pago-al-emisor-de-la-tarjeta-pero-se-me-olvido-incluir-el-recibo-de-pago-envie-el-pago-a-la-direccion-equivocada-envie-dinero-en-efectivo-en-vez-de-cheque-envie-un-cheque-en-moneda-extranjera-que-sucede-es-82/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2023-07-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/recibi-mi-factura-de-este-mes-y-el-pago-se-vence-el-mismo-dia-como-de-costumbre-pero-la-factura-llego-mucho-mas-tarde-que-de-costumbre-puedo-obtener-mas-tiempo-para-pagar-es-80/</loc>
