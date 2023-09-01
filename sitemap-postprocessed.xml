@@ -865,10 +865,6 @@
     <lastmod>2021-11-10</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-find-a-credit-counselor-en-1351/</loc>
-    <lastmod>2019-05-17</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-insurance-company-increased-my-car-insurance-rates-because-of-my-credit-report-is-that-legal-en-1349/</loc>
     <lastmod>2023-06-06</lastmod>
   </url>
@@ -1035,10 +1031,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-lender-or-dealer-said-that-my-spouse-had-to-co-sign-my-auto-loan-is-this-right-en-1205/</loc>
     <lastmod>2021-11-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/does-a-lender-or-dealer-have-to-consider-my-part-time-or-retirement-income-en-1201/</loc>
-    <lastmod>2019-05-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-a-lender-or-dealer-ask-me-about-the-alimony-child-support-or-separate-maintenance-payments-that-i-receive-when-i-apply-for-an-auto-loan-en-1195/</loc>
@@ -5350,7 +5342,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/</loc>
-    <lastmod>2022-12-29</lastmod>
+    <lastmod>2023-08-31</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/answers/</loc>
@@ -5358,7 +5350,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-transfers/</loc>
-    <lastmod>2023-08-10</lastmod>
+    <lastmod>2023-08-31</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-transfers/answers/</loc>
@@ -7497,6 +7489,14 @@
     <lastmod>2023-08-10</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/national-treasury-employees-union-petition/</loc>
+    <lastmod>2023-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/national-consumer-law-center-nclc/</loc>
+    <lastmod>2023-08-31</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/</loc>
     <lastmod>2021-01-22</lastmod>
   </url>
@@ -8738,7 +8738,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/pgx-holdings-inc/</loc>
-    <lastmod>2023-08-28</lastmod>
+    <lastmod>2023-08-31</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/forster-garbus-llp/</loc>
@@ -27345,6 +27345,10 @@
     <lastmod>2023-08-29</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/las-agencias-gubernamentales-solicitan-comentarios-sobre-la-normativa-propuesta-para-los-estandares-para-el-control-de-calidad-de-los-modelos-automaticos-de-tasacion/</loc>
+    <lastmod>2023-08-31</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-take-action-when-home-insurance-is-cancelled-or-costs-surge/</loc>
     <lastmod>2023-08-30</lastmod>
   </url>
@@ -28870,7 +28874,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/cfpb-in-english/bank-accounts-key-terms/</loc>
-    <lastmod>2023-02-14</lastmod>
+    <lastmod>2023-08-31</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/cfpb-in-english/credit-card-key-terms/</loc>
@@ -30589,10 +30593,6 @@
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-puedo-encontrar-a-un-asesor-de-credito-es-1351/</loc>
-    <lastmod>2019-05-23</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/mi-compania-de-seguros-aumento-las-tarifas-de-seguros-de-mi-vehiculo-debido-a-mi-informe-de-credito-es-eso-legal-es-1349/</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
@@ -30766,10 +30766,6 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/mi-prestamista-o-concesionario-dijo-que-mi-conyuge-tenia-que-ser-codeudor-de-mi-prestamo-vehicular-es-esto-correcto-es-1205/</loc>
-    <lastmod>2019-05-17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/obtener-respuestas/tiene-un-prestamista-o-concesionario-que-tomar-en-cuenta-mis-ingresos-de-tiempo-parcial-o-de-jubilacion-es-1201/</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
