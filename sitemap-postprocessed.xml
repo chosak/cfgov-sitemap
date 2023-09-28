@@ -522,7 +522,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-want-to-help-my-daughter-start-her-credit-history-what-should-i-do-en-1643/</loc>
-    <lastmod>2023-09-22</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-have-a-pre-schooler-who-is-starting-to-ask-for-treats-when-we-go-shopping-what-can-i-do-to-start-teaching-her-that-things-cost-money-en-1639/</loc>
@@ -1038,7 +1038,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-was-at-a-store-and-the-cashier-scanned-my-check-and-then-handed-it-back-to-me-is-this-normal-en-1105/</loc>
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-bank-offers-a-direct-deposit-advance-or-checking-account-advance-what-is-this-en-1103/</loc>
@@ -2971,10 +2971,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-was-sending-money-to-another-country-and-the-receipt-i-received-said-some-of-the-fees-were-estimates-what-does-that-mean-en-1767/</loc>
     <lastmod>2023-09-21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/how-should-i-handle-charges-on-my-monthly-credit-card-statement-for-services-i-did-not-sign-up-for-en-1543/</loc>
-    <lastmod>2023-09-22</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/</loc>
@@ -12469,6 +12465,10 @@
     <lastmod>2023-09-14</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/data-point-2022-mortgage-market-activity-trends/</loc>
+    <lastmod>2023-09-27</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
@@ -12734,7 +12734,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/tccp-survey-faqs/</loc>
@@ -12742,7 +12742,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/credit-card-agreement-submission/</loc>
-    <lastmod>2023-06-01</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/credit-card-agreement-submission/credit-card-agreement-submission-faqs/</loc>
@@ -12750,7 +12750,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/college-credit-card-marketing-agreement-submission/</loc>
-    <lastmod>2023-06-01</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/college-credit-card-marketing-agreement-submission/annual-college-credit-card-agreement-submission-faqs/</loc>
@@ -12770,7 +12770,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/prepaid-accounts/issuer-instructions/</loc>
-    <lastmod>2023-06-01</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-researchers/</loc>
@@ -27077,6 +27077,18 @@
     <lastmod>2023-09-22</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-analiza-papel-de-inteligencia-artificial-en-la-banca/</loc>
+    <lastmod>2023-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-on-mortgage-market-activity-and-trends/</loc>
+    <lastmod>2023-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-mortgage-report-finds-jumps-in-closing-costs-and-denials-for-insufficient-income-growing-proportion-of-cash-out-refinances/</loc>
+    <lastmod>2023-09-27</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2023-07-26</lastmod>
   </url>
@@ -27165,6 +27177,10 @@
     <lastmod>2023-09-26</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/human-resources-specialist-staffing-consultant-23-cfpb-234-p/</loc>
+    <lastmod>2023-09-27</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
     <lastmod>2022-12-29</lastmod>
   </url>
@@ -27194,7 +27210,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-09-27</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/supervision-regional-directors/</loc>
@@ -32127,10 +32143,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-son-los-prestamos-educativos-privados-o-alternativos-es-2136/</loc>
     <lastmod>2023-09-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-debo-manejar-los-cargos-del-estado-de-cuenta-mensual-de-mi-tarjeta-de-credito-por-los-servicios-para-los-que-no-me-inscribi-es-1543/</loc>
-    <lastmod>2023-09-22</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/comprar-casa/</loc>
