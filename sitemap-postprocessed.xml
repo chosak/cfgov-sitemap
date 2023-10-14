@@ -621,10 +621,6 @@
     <lastmod>2023-09-12</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/if-i-have-a-perkins-loan-and-i-am-interested-in-public-service-loan-forgiveness-what-do-i-need-to-know-en-1551/</loc>
-    <lastmod>2023-06-06</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-find-an-attorney-in-my-state-en-1549/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
@@ -959,10 +955,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-a-lender-consider-the-fact-that-i-am-not-a-us-citizen-en-1187/</loc>
     <lastmod>2023-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/is-a-lender-allowed-to-consider-my-age-or-where-my-income-comes-from-when-deciding-whether-to-give-me-a-loan-en-1181/</loc>
-    <lastmod>2022-08-18</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-i-think-a-lender-discriminated-against-me-en-1171/</loc>
@@ -1706,7 +1698,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-cosigner-student-loan-en-565/</loc>
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2023-10-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/</loc>
@@ -2959,6 +2951,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-a-lender-consider-my-race-color-religion-or-sex-en-348/</loc>
     <lastmod>2023-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/if-i-have-a-perkins-loan-and-i-am-interested-in-public-service-loan-forgiveness-what-do-i-need-to-know-en-1551/</loc>
+    <lastmod>2023-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/is-a-lender-allowed-to-consider-my-age-or-where-my-income-comes-from-when-deciding-whether-to-give-me-a-loan-en-1181/</loc>
+    <lastmod>2023-10-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/</loc>
@@ -6591,6 +6591,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/naca-et-al/</loc>
     <lastmod>2023-09-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/ron-nelson/</loc>
+    <lastmod>2023-10-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/</loc>
@@ -13205,7 +13209,7 @@
     <lastmod>2023-08-21</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/events/cfpb-webinar-reporting-and-investigating-elder-financial-exploitation/</loc>
+    <loc>https://www.consumerfinance.gov/about-us/events/archive-past-events/cfpb-webinar-reporting-and-investigating-elder-financial-exploitation/</loc>
     <lastmod>2023-08-21</lastmod>
   </url>
   <url>
@@ -26711,10 +26715,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/human-resource-specialist-recruitment-23-cfpb-238-mp/</loc>
     <lastmod>2023-10-06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/project-delivery-analyst-24-cfpb-1-mp/</loc>
-    <lastmod>2023-10-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
