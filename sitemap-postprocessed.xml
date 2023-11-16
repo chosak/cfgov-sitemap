@@ -4349,6 +4349,10 @@
     <lastmod>2022-12-28</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/student-loan-borrower-survey/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/bank-accounts/</loc>
     <lastmod>2023-10-17</lastmod>
   </url>
@@ -4462,7 +4466,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/complaint/</loc>
-    <lastmod>2023-10-04</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/complaint/process/</loc>
@@ -4810,7 +4814,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/fair-credit-reporting-act-disclosures/</loc>
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/amendment-relating-consumer-ability-repay-truth-lending-act-regulation-z/</loc>
@@ -5171,10 +5175,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/alias-test/</loc>
     <lastmod>2023-04-26</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/rules-policy/final-rules/consumer-information-requests-to-large-banks-and-credit-unions/</loc>
-    <lastmod>2023-11-09</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/small-business-review-panels/</loc>
@@ -7846,7 +7846,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/enova-international-inc/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/cash-tyme/</loc>
@@ -8373,6 +8373,10 @@
     <lastmod>2023-11-08</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/enova-international-inc-2023/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
     <lastmod>2023-07-18</lastmod>
   </url>
@@ -8386,7 +8390,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/investigatory-authority/</loc>
@@ -11981,6 +11985,14 @@
     <lastmod>2023-11-02</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/financial-report-cfpb-fiscal-year-2023/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/the-cfpb-language-access-plan-for-consumers-with-limited-english-proficiency/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
@@ -12438,7 +12450,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/national-survey-mortgage-originations/</loc>
-    <lastmod>2023-10-04</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/student-banking/</loc>
@@ -13253,12 +13265,12 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/events/fall-2023-consumer-advisory-board-meeting/</loc>
+    <loc>https://www.consumerfinance.gov/about-us/events/archive-past-events/fall-2023-consumer-advisory-board-meeting/</loc>
     <lastmod>2023-11-14</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/events/fall-2023-community-bank-advisory-council/</loc>
-    <lastmod>2023-11-01</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/events/fall-2023-credit-union-advisory-council-meeting/</loc>
@@ -26805,6 +26817,18 @@
     <lastmod>2023-11-13</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-actua-contra-aci-por-procesar-2-3-billones-en-pagos-no-autorizados/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-fines-repeat-offender-enova-15-million-for-violating-order-deceiving-customers-and-withdrawing-funds-without-consent/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-the-global-financial-innovation-networks-annual-general-meeting/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
@@ -26893,6 +26917,10 @@
     <lastmod>2023-11-09</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/senior-elaw-litigation-support-specialist-24-cfpb-26-mp/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
     <lastmod>2022-12-29</lastmod>
   </url>
@@ -26918,7 +26946,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/leadership-calendar/</loc>
-    <lastmod>2023-10-27</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/about-director/</loc>
@@ -27298,7 +27326,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/system-records-notices/</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/system-records-notices/freedom-of-information-act-foia-privacy-act-system/</loc>
@@ -27326,7 +27354,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/system-records-notices/directory-database-system/</loc>
-    <lastmod>2018-08-15</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/privacy/system-records-notices/transit-subsidy/</loc>
@@ -28018,7 +28046,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/enova-international-inc/</loc>
-    <lastmod>2023-05-10</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/cash-tyme/</loc>
@@ -28289,6 +28317,10 @@
     <lastmod>2023-11-08</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/enova-international-inc-2023/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-proceeding-forms-and-information/</loc>
     <lastmod>2023-06-01</lastmod>
   </url>
@@ -28406,7 +28438,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ar/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ar/auto-loan-key-terms/</loc>
@@ -28454,7 +28486,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ko/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ko/auto-loan-key-terms/</loc>
@@ -28502,7 +28534,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ru/</loc>
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ru/auto-loans-key-terms/</loc>
@@ -28614,7 +28646,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/vi/</loc>
-    <lastmod>2023-08-21</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/vi/auto-loans-key-terms/</loc>
@@ -28662,7 +28694,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/zh/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/zh/auto-loans-key-terms/</loc>
@@ -28710,7 +28742,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ht/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/ht/auto-loan-key-terms/</loc>
@@ -32006,7 +32038,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/enviar-una-queja/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/quienes-somos/</loc>
