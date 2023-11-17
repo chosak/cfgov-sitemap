@@ -4814,7 +4814,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/fair-credit-reporting-act-disclosures/</loc>
-    <lastmod>2023-11-15</lastmod>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/amendment-relating-consumer-ability-repay-truth-lending-act-regulation-z/</loc>
@@ -11993,6 +11993,10 @@
     <lastmod>2023-11-15</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/fair-debt-collection-practices-act-cfpb-annual-report-2023/</loc>
+    <lastmod>2023-11-16</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
@@ -12450,7 +12454,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/national-survey-mortgage-originations/</loc>
-    <lastmod>2023-11-15</lastmod>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/student-banking/</loc>
@@ -12506,7 +12510,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/cfo-q3-2012/</loc>
@@ -13269,12 +13273,12 @@
     <lastmod>2023-11-14</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/events/fall-2023-community-bank-advisory-council/</loc>
+    <loc>https://www.consumerfinance.gov/about-us/events/archive-past-events/fall-2023-community-bank-advisory-council/</loc>
     <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/events/fall-2023-credit-union-advisory-council-meeting/</loc>
-    <lastmod>2023-11-01</lastmod>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/comment-policy/</loc>
@@ -26821,12 +26825,20 @@
     <lastmod>2023-11-15</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-highlighting-consumer-protection-issues-in-medical-debt-collection/</loc>
+    <lastmod>2023-11-16</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-fines-repeat-offender-enova-15-million-for-violating-order-deceiving-customers-and-withdrawing-funds-without-consent/</loc>
     <lastmod>2023-11-15</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-the-global-financial-innovation-networks-annual-general-meeting/</loc>
     <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-the-federal-housing-finance-agencys-symposium-on-property-insurance/</loc>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
@@ -26905,10 +26917,6 @@
     <lastmod>2023-11-03</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-and-program-analyst-program-management-coordinator-24-cfpb-18-mpa/</loc>
-    <lastmod>2023-11-06</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/consumer-financial-protection-analyst-enforcement-24-cfpb-25-p24-cfpb-23-mp/</loc>
     <lastmod>2023-11-09</lastmod>
   </url>
@@ -26919,6 +26927,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/senior-elaw-litigation-support-specialist-24-cfpb-26-mp/</loc>
     <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/consumer-financial-protection-analyst-senior-systems-program-analyst-registrations-24-cfpb-22-mp/</loc>
+    <lastmod>2023-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/attorney-adviser-general-24-cfpb-24-x/</loc>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
@@ -26938,7 +26954,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/enforcement-hiring/</loc>
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/</loc>
