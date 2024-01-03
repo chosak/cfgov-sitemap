@@ -7762,7 +7762,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/jpmorgan-chase-bank-na/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/aequitas-capital-management-inc-et-al/</loc>
@@ -7802,11 +7802,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/conduent-business-services-llc/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/citibank-na-student-loan-servicing/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-na-2018/</loc>
@@ -7814,11 +7814,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/security-group-inc/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/citibank-na-2018/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/national-credit-adjusters-llc-and-bradley-hochstein/</loc>
@@ -7826,7 +7826,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/triton-management-group-inc/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/tcf-national-bank/</loc>
@@ -7838,7 +7838,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/bluestem-brands-inc/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/cash-express-llc/</loc>
@@ -7846,7 +7846,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/santander-consumer-usa-inc/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/village-capital-and-investment-llc/</loc>
@@ -7854,7 +7854,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/state-farm-bank-fsb/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/actions/usaa-federal-savings-bank/</loc>
@@ -9422,7 +9422,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/rural-and-underserved-counties-list/</loc>
-    <lastmod>2024-01-01</lastmod>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/real-estate-settlement-procedures-act/</loc>
@@ -9771,6 +9771,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/compliance/amicus/briefs/roberts-v-carter-young-inc/</loc>
     <lastmod>2023-12-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/compliance/amicus/briefs/carrasquillo-v-cica-collection-agency/</loc>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/amicus/suggest/</loc>
@@ -12069,6 +12073,10 @@
     <lastmod>2023-12-21</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/plain-writing-act-compliance-report-2023/</loc>
+    <lastmod>2024-01-02</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
@@ -12311,18 +12319,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/</loc>
     <lastmod>2022-12-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-30-89-days-delinquent/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-90-or-more-days-delinquent/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/download-the-data/</loc>
-    <lastmod>2022-12-28</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/about-the-data/</loc>
@@ -19783,6 +19779,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/office-of-research-blog-a-look-at-cash-out-refinance-mortgages-and-their-borrowers-between-2013-to-2023/</loc>
     <lastmod>2023-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/cfpb-to-distribute-nearly-6-million-to-consumers-harmed-by-predatory-loans-to-veterans/</loc>
+    <lastmod>2024-01-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/holding-debt-collectors-responsible-for-false-statements/</loc>
+    <lastmod>2024-01-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
