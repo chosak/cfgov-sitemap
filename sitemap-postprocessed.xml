@@ -4829,10 +4829,6 @@
     <lastmod>2023-03-24</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/rules-policy/rules-under-development/credit-card-penalty-fees-regulation-z/</loc>
-    <lastmod>2023-03-29</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/rules-under-development/residential-property-assessed-clean-energy-financing-regulation-z/</loc>
     <lastmod>2023-05-15</lastmod>
   </url>
@@ -5391,6 +5387,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/alias-test/</loc>
     <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/final-rules/credit-card-penalty-fees-final-rule/</loc>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/fair-credit-reporting-file-disclosure/</loc>
@@ -6857,6 +6857,10 @@
     <lastmod>2024-02-12</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/kelly-subbaiah/</loc>
+    <lastmod>2024-03-05</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
@@ -6982,7 +6986,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/junk-fees/</loc>
-    <lastmod>2024-01-17</lastmod>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advanced-technology/</loc>
@@ -9474,11 +9478,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/consumer-cards-resources/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/consumer-cards-resources/prepaid-cards/</loc>
@@ -9491,6 +9495,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/consumer-cards-resources/truth-lending-annual-threshold-adjustments/</loc>
     <lastmod>2023-10-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/compliance/compliance-resources/consumer-cards-resources/credit-card-penalty-fees/</loc>
+    <lastmod>2024-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/compliance/compliance-resources/consumer-cards-resources/credit-card-penalty-fees/model-forms-and-clauses/</loc>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/deposit-accounts-resources/</loc>
@@ -12482,7 +12494,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/public-data-inventory/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-credit-trends/</loc>
@@ -26638,7 +26650,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-proposes-rule-to-rein-in-excessive-credit-card-late-fees/</loc>
-    <lastmod>2023-06-08</lastmod>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/director-chopras-remarks-on-press-call-for-credit-card-late-fees-nprm/</loc>
@@ -26718,7 +26730,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-propone-frenar-excesivas-penalidades-por-atraso/</loc>
-    <lastmod>2023-06-08</lastmod>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-emite-normas-para-proteger-a-prestatarios-de-hipotecas/</loc>
@@ -27443,6 +27455,18 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-emite-directrices-para-comparar-productos-financieros/</loc>
     <lastmod>2024-03-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-excessive-credit-card-late-fees-lowers-typical-fee-from-32-to-8/</loc>
+    <lastmod>2024-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-pone-en-marcha-normativa-sobre-facturas-medicas/</loc>
+    <lastmod>2024-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-on-the-final-rule-to-close-the-credit-card-late-fee-loophole/</loc>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
