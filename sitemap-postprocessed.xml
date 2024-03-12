@@ -706,7 +706,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/elder-abuse-resources/</loc>
-    <lastmod>2023-11-07</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/webinar-archive/</loc>
@@ -766,11 +766,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/know-your-rights-caregivers-and-nursing-home-debt/</loc>
-    <lastmod>2022-12-13</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-tax-preparers/</loc>
-    <lastmod>2024-02-06</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-tax-preparers/tools-for-planning-outreach-working-with-taxpayers/</loc>
@@ -905,8 +905,24 @@
     <lastmod>2024-01-30</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/</loc>
+    <loc>https://www.consumerfinance.gov/consumer-tools/auto-loans/</loc>
     <lastmod>2023-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/auto-loans/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/bank-accounts/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/bank-accounts/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/</loc>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/sample-letters-dispute-credit-report-information/</loc>
@@ -1173,8 +1189,24 @@
     <lastmod>2022-12-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/</loc>
-    <lastmod>2023-04-25</lastmod>
+    <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/debt-email-sign-privacy-act-statement/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/disasters-and-emergencies/</loc>
@@ -1209,20 +1241,12 @@
     <lastmod>2022-10-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/</loc>
-    <lastmod>2023-12-13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/debt-email-sign-privacy-act-statement/</loc>
-    <lastmod>2023-02-10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/debt-collection/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
+    <loc>https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/</loc>
+    <lastmod>2023-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/young-children/</loc>
@@ -1349,51 +1373,55 @@
     <lastmod>2023-02-10</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/money-transfers/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/money-transfers/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/mortgages/</loc>
-    <lastmod>2024-02-28</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/mortgages/answers/</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/military-financial-lifecycle/</loc>
-    <lastmod>2024-02-28</lastmod>
+    <loc>https://www.consumerfinance.gov/consumer-tools/payday-loans/</loc>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/fraud/</loc>
-    <lastmod>2023-11-07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/fraud/answers/</loc>
+    <loc>https://www.consumerfinance.gov/consumer-tools/payday-loans/answers/</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/fraud/debt-collection-scams-video/</loc>
-    <lastmod>2023-12-13</lastmod>
+    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/</loc>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/save-as-pdf-instructions/</loc>
-    <lastmod>2023-02-10</lastmod>
+    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/know-your-rights/</loc>
+    <lastmod>2023-10-12</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/</loc>
-    <lastmod>2024-02-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/student-loan-borrower-survey/</loc>
-    <lastmod>2023-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/bank-accounts/</loc>
+    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/choose-the-right-card/</loc>
     <lastmod>2023-10-17</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/bank-accounts/answers/</loc>
+    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/understand-fees/</loc>
+    <lastmod>2023-10-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/answers/</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
   <url>
@@ -1433,68 +1461,40 @@
     <lastmod>2024-01-30</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/student-loans/student-loan-borrower-survey/</loc>
+    <lastmod>2023-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/military-financial-lifecycle/</loc>
+    <lastmod>2024-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/fraud/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/fraud/answers/</loc>
+    <lastmod>2022-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/fraud/debt-collection-scams-video/</loc>
+    <lastmod>2023-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/save-as-pdf-instructions/</loc>
+    <lastmod>2023-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/retirement/</loc>
     <lastmod>2023-12-13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/auto-loans/</loc>
-    <lastmod>2023-12-13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/auto-loans/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/</loc>
-    <lastmod>2022-12-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/know-your-rights/</loc>
-    <lastmod>2023-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/choose-the-right-card/</loc>
-    <lastmod>2023-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/prepaid-cards/understand-fees/</loc>
-    <lastmod>2023-10-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/</loc>
-    <lastmod>2023-08-31</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/money-transfers/</loc>
-    <lastmod>2023-08-31</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/money-transfers/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/</loc>
-    <lastmod>2023-05-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/payday-loans/</loc>
-    <lastmod>2022-12-29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/payday-loans/answers/</loc>
-    <lastmod>2022-12-28</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/guide-to-filing-your-taxes/</loc>
@@ -2937,8 +2937,8 @@
     <lastmod>2023-09-14</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/am-i-required-to-purchase-an-extended-warranty-or-guaranteed-auto-protection-gap-insurance-from-a-lender-or-dealer-to-get-an-auto-loan-en-807/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/am-i-required-to-purchase-an-extended-warranty-or-guaranteed-asset-protection-gap-insurance-from-a-lender-or-dealer-to-get-an-auto-loan-en-807/</loc>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-are-debt-cancellation-or-debt-suspension-products-offered-with-an-auto-loan-en-803/</loc>
@@ -3034,7 +3034,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-an-extended-warranty-or-vehicle-service-contract-en-729/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-buy-rate-for-an-auto-loan-en-727/</loc>
@@ -3045,8 +3045,8 @@
     <lastmod>2023-09-14</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-think-an-auto-dealer-or-lender-is-violating-the-law-en-719/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-think-an-auto-dealer-or-lender-is-breaking-the-law-en-719/</loc>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-student-loan-relief-exists-for-active-duty-members-of-the-military-675/</loc>
@@ -4190,7 +4190,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-prescreened-credit-card-offer-en-1/</loc>
-    <lastmod>2024-02-02</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/search-by-tag/</loc>
@@ -4394,7 +4394,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-can-i-enroll-in-income-driven-repayment-en-2138/</loc>
-    <lastmod>2023-09-12</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-determine-who-to-pay-and-when-to-pay-my-private-student-loans-en-2139/</loc>
@@ -4482,7 +4482,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/</loc>
-    <lastmod>2023-12-13</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/privacy-act-statement/</loc>
@@ -6857,6 +6857,18 @@
     <lastmod>2024-03-05</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/jordan-vint/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/bharat-kondapolli/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/sharon-borough/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
@@ -6978,7 +6990,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/small-business-lending/</loc>
-    <lastmod>2023-05-11</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/junk-fees/</loc>
@@ -12594,11 +12606,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-30-89-days-delinquent/</loc>
-    <lastmod>2024-01-12</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-90-or-more-days-delinquent/</loc>
-    <lastmod>2024-01-12</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/mortgage-performance-trends/download-the-data/</loc>
@@ -27477,6 +27489,10 @@
     <lastmod>2024-03-08</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/consumer-advisory-opportunity-to-cancel-student-loan-debt-ends-soon/</loc>
+    <lastmod>2024-03-11</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2024-01-17</lastmod>
   </url>
@@ -27559,10 +27575,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/it-specialist-technical-product-manager-24-cfpb-100-mpa/</loc>
     <lastmod>2024-02-26</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/special-assistant-24-cfpb-104-p/</loc>
-    <lastmod>2024-03-06</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/examiner-de-12343553-24-hhst-12343555-24-hh/</loc>
@@ -29078,7 +29090,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/notices-after-you-applied-for-credit/</loc>
-    <lastmod>2023-06-07</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/cfpb-in-english/</loc>
@@ -29922,11 +29934,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/me-ofrecieron-un-avance-de-mi-pension-que-es-esto-que-debo-tener-en-cuenta-es-1715/</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/en-que-me-beneficia-la-ley-gi-bill-es-1713/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/si-soy-el-cofirmante-del-prestamo-de-mi-nieto-puede-el-prestamista-embargar-mi-cheque-del-seguro-social-si-mi-nieto-no-puede-o-no-podra-pagarlo-es-1707/</loc>
@@ -29934,7 +29946,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-puedo-verificar-si-un-cobrador-de-deudas-es-legitimo-es-1699/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-debo-hacer-si-no-puedo-pagar-mis-cuentas-de-tarjeta-de-credito-es-1697/</loc>
@@ -29942,7 +29954,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-debo-hacer-cuando-un-cobrador-de-deudas-se-comunica-conmigo-es-1695/</loc>
-    <lastmod>2023-11-21</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/estoy-interesado-en-empezar-un-negocio-pero-tengo-una-deuda-estudiantil-que-necesito-saber-es-1691/</loc>
@@ -30214,15 +30226,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/si-alguien-que-tiene-deudas-muere-la-deuda-se-cancela-es-1463/</loc>
-    <lastmod>2022-08-09</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-son-las-companias-de-negociacion-de-deudasalivio-de-deudas-deberia-usarlas-es-1457/</loc>
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-la-asesoria-de-credito-es-1451/</loc>
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/cual-es-la-diferencia-entre-un-asesor-de-credito-y-una-empresa-de-liquidacion-de-deudas-es-1449/</loc>
@@ -30230,19 +30242,19 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/cual-es-la-mejor-manera-de-negociar-un-arreglo-con-un-cobrador-de-deudas-es-1447/</loc>
-    <lastmod>2022-08-09</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/puede-un-cobrador-embargar-mi-cuenta-bancaria-o-mi-salario-es-1439/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-puedo-encontrar-a-un-abogado-que-me-represente-ante-la-demanda-de-un-acreedor-o-cobrador-es-1433/</loc>
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-puede-pasar-si-ignoro-o-evito-contacto-con-un-cobrador-de-deudas-es-1427/</loc>
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/puede-un-cobrador-intentar-cobrar-una-deuda-que-fue-liquidada-en-la-bancarrota-es-1425/</loc>
@@ -30266,11 +30278,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-pasa-si-yo-creo-que-no-debo-la-deuda-o-si-quiero-informacion-sobre-la-misma-es-1403/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-se-considera-como-una-practica-injusta-por-parte-de-un-cobrador-de-deudas-es-1401/</loc>
-    <lastmod>2023-11-07</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/hay-un-limite-en-el-numero-de-veces-que-un-cobrador-de-deudas-puede-llamarme-es-1397/</loc>
@@ -30294,7 +30306,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-miembro-activo-de-las-fuerzas-armadas-puedo-obtener-una-puntuacion-de-credito-verdaderamente-gratuita-para-mi-o-para-mi-conyuge-es-1373/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/estoy-en-las-fuerzas-armadas-si-ejercito-mis-derechos-en-virtud-de-la-scra-afectara-mi-puntaje-crediticio-o-permitira-a-mi-prestamista-o-acreedor-cerrar-mi-cuenta-o-reducir-mi-linea-de-credito-es-1371/</loc>
@@ -30538,7 +30550,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/oi-que-hay-una-cuenta-de-ahorros-especial-para-los-militares-desplegados-soy-elegible-para-eso-es-1131/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/tengo-una-cuenta-corrientede-ahorros-en-una-caja-de-ahorros-son-diferentes-las-normas-de-las-cuentas-de-una-caja-de-ahorros-a-las-de-las-cuentas-de-un-banco-es-1129/</loc>
@@ -31190,7 +31202,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/soy-miembro-de-las-fuerzas-armadas-en-servicio-activo-o-a-punto-de-entrar-al-servicio-activo-que-opciones-existen-que-me-ayuden-a-manejar-mis-prestamos-para-estudiantes-es-675/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-pasa-si-no-cumplo-con-un-prestamo-estudiantil-privado-es-673/</loc>
@@ -31570,7 +31582,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-deberia-hacer-si-un-acreedor-o-un-cobrador-de-deudas-me-demanda-es-334/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/pueden-los-cobradores-de-deudas-informar-a-otras-personas-acerca-de-mi-deuda-es-332/</loc>
@@ -31582,7 +31594,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-un-cobrador-de-deudas-y-por-que-trata-de-comunicarse-conmigo-es-330/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/existen-leyes-que-limitan-lo-que-los-cobradores-de-deudas-pueden-decir-o-hacer-es-329/</loc>
@@ -32122,7 +32134,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-un-prestamo-de-la-va-es-113/</loc>
-    <lastmod>2020-03-23</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-un-prestamo-de-la-fha-es-112/</loc>
@@ -32230,7 +32242,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/hay-una-ley-que-limita-las-tasas-de-interes-de-las-tarjetas-de-credito-es-73/</loc>
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/puede-mi-compania-de-tarjetas-de-credito-cambiar-los-terminos-de-mi-cuenta-es-70/</loc>
@@ -32482,7 +32494,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/deberia-compartir-informacion-personal-fecha-de-nacimiento-o-numero-de-seguro-social-con-un-cobrador-de-deudas-es-2098/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/spanish-draft-of-how-do-i-avoid-student-loan-scams-es-2100/</loc>
@@ -32614,7 +32626,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-del-dia-de-pago/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-del-dia-de-pago/respuestas/</loc>
@@ -32622,7 +32634,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/cobro-de-deudas/</loc>
-    <lastmod>2023-12-13</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/cobro-de-deudas/respuestas/</loc>
@@ -32630,7 +32642,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/hipotecas/</loc>
-    <lastmod>2023-12-13</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/hipotecas/respuestas/</loc>
@@ -32638,7 +32650,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/fraudes-y-estafas/</loc>
-    <lastmod>2023-11-21</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/fraudes-y-estafas/respuestas/</loc>
@@ -32646,7 +32658,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-estudiantiles/</loc>
-    <lastmod>2024-02-28</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-estudiantiles/respuestas/</loc>
@@ -32654,7 +32666,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/informes-y-puntajes-de-credito/</loc>
-    <lastmod>2023-12-13</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/informes-y-puntajes-de-credito/respuestas/</loc>
@@ -32662,7 +32674,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/cuentas-bancarias/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/cuentas-bancarias/respuestas/</loc>
@@ -32670,7 +32682,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/hipotecas-inversas/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/hipotecas-inversas/respuestas/</loc>
@@ -32678,7 +32690,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/tarjetas-prepagadas/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/tarjetas-prepagadas/respuestas/</loc>
@@ -32698,7 +32710,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-para-vehiculos/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-para-vehiculos/respuestas/</loc>
@@ -32706,7 +32718,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/tarjetas-de-credito/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/tarjetas-de-credito/respuestas/</loc>
@@ -32714,7 +32726,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/transferencias-de-dinero/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/transferencias-de-dinero/respuestas/</loc>
@@ -32742,7 +32754,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/conozca-sus-derechos-cuidadores-y-deudas-con-hogares-de-cuidados/</loc>
-    <lastmod>2022-12-13</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/herramientas-del-consumidor/guia-para-declarar-impuestos/</loc>
@@ -32766,7 +32778,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/el-dinero-mientras-creces/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/el-dinero-mientras-creces/ninos-pequenos/</loc>
@@ -33078,7 +33090,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/sepa-mas/</loc>
-    <lastmod>2023-09-20</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/vivienda/</loc>
@@ -33138,7 +33150,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/repay-student-debt/</loc>
-    <lastmod>2023-09-06</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/repay-student-debt/student-loan-cosigners/</loc>
@@ -33150,11 +33162,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/repay-student-debt/federal-student-loans/</loc>
-    <lastmod>2022-08-08</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/repay-student-debt/private-student-loans/</loc>
-    <lastmod>2022-08-08</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/repay-student-debt/student-loan-debt-tips/</loc>
@@ -33162,7 +33174,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/repay-student-debt/federal-parent-plus-loans/</loc>
-    <lastmod>2022-08-08</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/student-loan-forgiveness/</loc>
@@ -33330,7 +33342,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/learnmore/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-03-11</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/mortgage/</loc>
