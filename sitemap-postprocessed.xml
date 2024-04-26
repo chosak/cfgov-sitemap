@@ -858,7 +858,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/tools-and-resources/</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/cfpb_finex/</loc>
@@ -867,6 +867,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/join-cfpb-finex-network/</loc>
     <lastmod>2019-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/tips-for-managing-family-lending-and-borrowing/</loc>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/financial-well-being-resources/</loc>
@@ -1590,7 +1594,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-demand-feature-what-does-it-mean-if-the-demand-feature-is-checked-off-on-my-closing-disclosure-en-1997/</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/</loc>
@@ -1610,7 +1614,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-information-do-i-have-to-provide-a-lender-in-order-to-receive-a-loan-estimate-en-1987/</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-loan-officer-says-that-i-cant-apply-for-a-mortgage-loan-and-receive-a-loan-estimate-until-i-can-provide-a-copy-of-a-signed-purchase-contract-is-that-correct-en-1985/</loc>
@@ -1726,7 +1730,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-find-an-error-in-one-of-my-mortgage-closing-documents-en-1917/</loc>
-    <lastmod>2019-06-11</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-do-not-get-a-closing-disclosure-three-days-before-my-mortgage-closing-en-1911/</loc>
@@ -1998,7 +2002,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/whens-a-good-age-to-open-a-savings-account-for-my-child-en-1661/</loc>
-    <lastmod>2019-03-14</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-want-my-children-to-learn-how-to-compare-prices-what-are-some-things-i-could-try-en-1659/</loc>
@@ -2990,7 +2994,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/where-can-i-get-information-on-auto-loan-rates-en-761/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-dealer-arranged-and-bank-financing-en-759/</loc>
@@ -3966,7 +3970,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-remove-an-authorized-user-from-my-credit-card-account-en-86/</loc>
-    <lastmod>2023-09-22</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-let-the-card-issuer-know-i-was-closing-my-account-they-are-still-charging-me-interest-can-they-do-that-en-85/</loc>
@@ -4006,7 +4010,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-my-credit-card-issuer-reduce-my-credit-limit-en-74/</loc>
-    <lastmod>2022-07-12</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/is-there-a-law-that-limits-credit-card-interest-rates-for-servicemembers-en-73/</loc>
@@ -12530,7 +12534,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/2024-cfpb-research-conference/agenda/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/2024-cfpb-research-conference/call-for-papers/</loc>
@@ -13701,8 +13705,16 @@
     <lastmod>2024-03-26</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/events/save-the-date-cfpb-and-dot-to-hold-joint-hearing-on-airline-and-credit-card-rewards-programs/</loc>
+    <lastmod>2024-04-25</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/events/spring-2024-community-bank-advisory-council-meeting/</loc>
-    <lastmod>2024-04-16</lastmod>
+    <lastmod>2024-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/events/spring-2024-consumer-advisory-board-meeting/</loc>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/comment-policy/</loc>
@@ -27718,11 +27730,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-toma-acciones-contra-centro-de-entrenamiento-intensivo-de-programacion-bloomtech-y-su-ceo-austen-allred-por-enganar-a-sus-estudiantes-y-ocultar-costos-de-prestamos/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-actua-contra-citi-por-discriminar-a-consumidores/</loc>
     <lastmod>2024-04-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-member-fdic-board-of-directors-on-reviewing-investments-in-and-takeovers-of-banks/</loc>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
@@ -29314,7 +29330,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/office-civil-rights/no-fear-act-cummings-act/</loc>
-    <lastmod>2024-03-25</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/office-civil-rights/diversity-policy/</loc>
@@ -29814,7 +29830,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-una-caracteristica-de-pago-inmediato-exigible-que-significa-si-la-caracteristica-de-pago-inmediato-exigible-esta-marcada-en-mi-informacion-de-cierre-es-1997/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-una-estimacion-del-prestamo-es-1995/</loc>
@@ -29834,7 +29850,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-informacion-debo-proporcionar-a-un-prestamista-para-recibir-una-estimacion-del-prestamo-es-1987/</loc>
-    <lastmod>2019-04-26</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/mi-funcionario-de-prestamos-dice-que-no-puedo-solicitar-un-prestamo-hipotecario-y-recibir-una-estimacion-del-prestamo-hasta-que-pueda-entregar-la-copia-de-un-contrato-de-compra-firmado-es-eso-correcto-es-1985/</loc>
@@ -29854,7 +29870,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-puedo-obtener-una-devolucion-de-un-producto-o-servicio-que-compre-con-mi-tarjeta-de-credito-es-1969/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-los-prestamistas-hipotecarios-calculan-los-pagos-mensuales-es-1965/</loc>
@@ -29950,7 +29966,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-debo-hacer-si-encuentro-un-error-en-uno-de-mis-documentos-de-cierre-del-prestamo-hipotecario-es-1917/</loc>
-    <lastmod>2019-04-26</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-debo-hacer-si-no-recibo-un-formulario-de-divulgacion-de-cierre-tres-dias-antes-del-cierre-de-mi-hipoteca-es-1911/</loc>
@@ -30254,7 +30270,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/cuando-es-una-buena-edad-para-abrir-una-cuenta-de-ahorros-para-mi-hijo-es-1661/</loc>
-    <lastmod>2019-04-26</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/quiero-que-mis-hijos-aprendan-a-comparar-precios-cuales-son-algunas-cosas-que-podria-intentar-es-1659/</loc>
@@ -31298,7 +31314,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/donde-puedo-obtener-informacion-sobre-las-tasas-de-prestamos-para-vehiculos-es-761/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/cual-es-la-diferencia-entre-el-financiamiento-arreglado-por-el-concesionario-y-el-financiamiento-a-traves-de-un-banco-cooperativa-de-credito-o-por-medio-de-otro-prestamista-es-759/</loc>
@@ -32162,7 +32178,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/necesito-a-un-abogado-o-a-cualquier-otra-persona-que-me-represente-en-el-cierre-de-una-hipoteca-es-177/</loc>
-    <lastmod>2019-04-26</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-un-cierre-de-hipoteca-que-sucede-en-el-cierre-es-176/</loc>
@@ -32234,7 +32250,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/puede-un-prestamista-exigir-documentos-como-mi-formulario-w-2-o-mi-comprobante-de-pago-para-darme-una-estimacion-del-prestamo-es-147/</loc>
-    <lastmod>2019-04-26</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/qu-es-un-estimado-de-buena-fe-gfe-es-146/</loc>
@@ -32398,7 +32414,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-puedo-eliminar-a-un-usuario-autorizado-de-mi-cuenta-de-tarjeta-de-credito-es-86/</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/le-informe-a-mi-emisor-de-tarjetas-que-cerraria-mi-cuenta-aun-siguen-cobrandome-interes-pueden-hacer-eso-es-85/</loc>
@@ -32438,7 +32454,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/puede-el-emisor-de-mi-tarjeta-reducir-mi-limite-de-credito-es-74/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/hay-una-ley-que-limita-las-tasas-de-interes-de-las-tarjetas-de-credito-es-73/</loc>
@@ -32446,7 +32462,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/puede-mi-compania-de-tarjetas-de-credito-cambiar-los-terminos-de-mi-cuenta-es-70/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/cuando-puede-mi-compania-de-tarjetas-de-credito-aumentar-mi-tasa-de-interes-que-puedo-hacer-para-volver-a-bajar-la-tasa-es-69/</loc>
@@ -32462,7 +32478,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-puedo-impugnar-un-cargo-en-el-estado-de-cuenta-de-mi-tarjeta-de-credito-es-61/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/puede-la-compania-de-tarjetas-de-credito-cobrar-un-cargo-segun-la-forma-en-que-pago-mi-factura-como-por-ejemplo-por-hacer-un-pago-por-telfono-es-60/</loc>
@@ -32598,7 +32614,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-decide-una-compania-de-tarjetas-de-credito-que-tipo-de-interes-ofrecerme-para-una-tarjeta-de-credito-es-9/</loc>
-    <lastmod>2019-05-17</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/estoy-cansado-de-recibir-correos-sobre-tarjetas-de-credito-que-puedo-hacer-es-7/</loc>
@@ -33441,18 +33457,6 @@
     <lastmod>2023-12-13</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/</loc>
-    <lastmod>2023-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/conversation-about-payment-agreements/</loc>
-    <lastmod>2023-07-18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/your-tenant-debt-collection-rights/</loc>
-    <lastmod>2023-01-27</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/federally-subsidized/</loc>
     <lastmod>2024-03-19</lastmod>
   </url>
@@ -33467,10 +33471,6 @@
   <url>
     <loc>https://www.consumerfinance.gov/coronavirus/managing-your-finances/</loc>
     <lastmod>2024-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/coronavirus/managing-your-finances/tips-for-managing-family-lending-and-borrowing/</loc>
-    <lastmod>2023-10-04</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/coronavirus/mortgage-forbearance-during-covid-19-what-know-what-do/</loc>
@@ -33570,11 +33570,23 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/</loc>
-    <lastmod>2024-02-28</lastmod>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/</loc>
-    <lastmod>2023-08-02</lastmod>
+    <lastmod>2024-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/your-tenant-debt-collection-rights/</loc>
+    <lastmod>2024-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/start-a-conversation-about-rent-repayment/</loc>
+    <lastmod>2024-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/what-to-do-if-youre-facing-eviction/</loc>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/housing/housing-insecurity/lost-housing/</loc>
