@@ -854,7 +854,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/</loc>
-    <lastmod>2024-05-07</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/tools-and-resources/</loc>
@@ -1366,7 +1366,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/bookshelf/</loc>
-    <lastmod>2023-10-04</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/email-signup/</loc>
@@ -1530,7 +1530,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-can-i-recognize-mail-fraud-en-2049/</loc>
-    <lastmod>2024-04-03</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/should-i-trade-in-my-car-if-its-not-paid-off-en-2045/</loc>
@@ -4297,10 +4297,6 @@
     <lastmod>2023-08-11</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/do-i-have-to-pay-off-a-buy-now-pay-later-bnpl-loan-if-i-want-to-return-my-purchase-en-2115/</loc>
-    <lastmod>2024-05-22</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-happens-if-i-cant-pay-back-a-buy-now-pay-later-bnpl-loan-en-2116/</loc>
     <lastmod>2024-05-22</lastmod>
   </url>
@@ -4314,7 +4310,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-buy-now-pay-later-bnpl-loan-en-2119/</loc>
-    <lastmod>2024-05-22</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/do-personal-installment-loans-have-fees-en-2120/</loc>
@@ -6861,12 +6857,16 @@
     <lastmod>2024-04-18</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/cameron-heffelfinger/</loc>
+    <lastmod>2024-05-23</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/consumer-advisory-board/</loc>
-    <lastmod>2024-02-05</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/community-bank-advisory-council/</loc>
@@ -6874,7 +6874,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/credit-union-advisory-council/</loc>
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/advisory-committees/academic-research-council/</loc>
@@ -20301,6 +20301,10 @@
     <lastmod>2024-05-20</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/the-cfpb-is-protecting-the-military-community-and-providing-relief/</loc>
+    <lastmod>2024-05-23</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
     <lastmod>2023-04-21</lastmod>
   </url>
@@ -28001,10 +28005,6 @@
     <lastmod>2024-05-03</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/public-affairs-specialist-24-cfpb-144-p/</loc>
-    <lastmod>2024-05-10</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/paralegal-specialist-24-cfpb-150-mpa/</loc>
     <lastmod>2024-05-17</lastmod>
   </url>
@@ -28015,6 +28015,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-program-analyst-24-cfpb-142-p/</loc>
     <lastmod>2024-05-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/enforcement-economist/</loc>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
@@ -28034,7 +28038,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/enforcement-hiring/</loc>
-    <lastmod>2024-05-10</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/disability-employment/</loc>
@@ -28046,11 +28050,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/</loc>
-    <lastmod>2024-05-20</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/leadership-calendar/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/about-director/</loc>
@@ -32078,7 +32082,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/como-funciona-la-ejecucion-hipotecaria-es-287/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/no-puedo-hacer-los-pagos-de-la-hipoteca-ni-vender-mi-casa-que-debo-hacer-es-286/</loc>
@@ -32950,7 +32954,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-es-un-prestamo-compre-ahora-y-pague-luego-bnpl-siglas-en-ingles-es-2119/</loc>
-    <lastmod>2024-05-22</lastmod>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/es/obtener-respuestas/que-deberia-saber-sobre-el-cobro-de-deudas-y-el-reporte-de-credito-si-mi-factura-medica-ha-sido-enviada-a-cobranzas-es-2122/</loc>
