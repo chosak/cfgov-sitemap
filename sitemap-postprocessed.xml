@@ -7042,7 +7042,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/</loc>
-    <lastmod>2024-06-28</lastmod>
+    <lastmod>2024-07-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/american-debt-solutions/</loc>
@@ -7275,6 +7275,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/thinkfinance/</loc>
     <lastmod>2024-05-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/accessfunding/</loc>
+    <lastmod>2024-07-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/</loc>
@@ -9158,7 +9162,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervisory-highlights/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-07-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervisory-guidance/</loc>
@@ -12514,7 +12518,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/borrower-experiences-with-mortgage-servicing-during-the-covid-19-pandemic/</loc>
-    <lastmod>2024-06-28</lastmod>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/supervisory-highlights-issue-34-summer-2024/</loc>
+    <lastmod>2024-07-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
@@ -20413,6 +20421,10 @@
     <lastmod>2024-06-28</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/el-riesgo-climatico-debe-considerarse-en-las-decisiones-sobre-vivienda/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/the-cfpb-is-working-to-reinforce-the-foundation-of-a-fair-nondiscriminatory-and-competitive-mortgage-market/</loc>
     <lastmod>2024-06-28</lastmod>
   </url>
@@ -28149,6 +28161,14 @@
     <lastmod>2024-07-01</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-director-rohit-chopras-uc-irvine-law-review-article-on-enforcing-the-post-financial-crisis-ban-on-abusive-conduct/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-exams-find-loan-servicing-failures-illegal-debt-collection-practices-and-issues-with-medical-payment-products/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2024-01-17</lastmod>
   </url>
@@ -33545,26 +33565,6 @@
     <lastmod>2023-10-02</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/es/prepararse-para-comprar-casa/</loc>
-    <lastmod>2023-06-07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/prepararse-para-comprar-casa/cuentas-bancarias/</loc>
-    <lastmod>2024-06-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/prepararse-para-comprar-casa/credito/</loc>
-    <lastmod>2024-06-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/prepararse-para-comprar-casa/hipotecas/</loc>
-    <lastmod>2024-06-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/es/prepararse-para-comprar-casa/declaracion-de-la-ley-de-privacidad/</loc>
-    <lastmod>2023-09-20</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/es/empiece-poco-a-poco-y-ahorre/</loc>
     <lastmod>2024-02-28</lastmod>
   </url>
@@ -33731,6 +33731,130 @@
   <url>
     <loc>https://www.consumerfinance.gov/es/vivienda/consejos-para-administrar-los-prestamos-y-creditos-familiares/</loc>
     <lastmod>2024-06-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/prepararse/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/prepararse/ponga-en-orden-su-situacion-financiera/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/prepararse/calcule-cuanto-quiere-gastar/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/prepararse/considere-si-es-el-momento-adecuado-para-comprar/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/prepararse/crear-un-paquete-de-solicitud-de-prestamo/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/conozca-los-costos-de-los-prestamos/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/comprenda-los-diferentes-tipos-de-prestamos-disponibles/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/comuniquese-con-varios-prestamistas/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/reuna-y-actualice-su-documentacion/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/obtener-una-carta-de-preaprobacion/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/seleccione-el-tipo-de-prestamo-que-se-ajuste-a-sus-necesidades/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/explorando/encuentre-la-casa-adecuada/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/elegir/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/elegir/solicite-y-revise-multiples-estimaciones-de-prestamos/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/elegir/compare-y-negocie-sus-ofertas-de-prestamos/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/elegir/elija-una-oferta-de-prestamo/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/presente-los-documentos-y-responda-a-las-solicitudes-del-prestamista/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/programe-una-inspeccion-de-la-vivienda/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/busque-un-seguro-de-propietario-de-vivienda/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/compre-seguros-de-titulo-y-otros-servicios-de-cierre/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/este-atento-a-las-estimaciones-de-prestamos-revisadas/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/revise-los-documentos-antes-del-cierre/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/cerrar-el-trato/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/cierre/despues-del-cierre/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/fuentes/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/prestamos-de-la-fha/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/programas-de-prestamos-especiales/</loc>
+    <lastmod>2024-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/es/comprar-una-casa/prestamos-convencionales/</loc>
+    <lastmod>2024-07-02</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/cfpb-ombudsman/</loc>
