@@ -1230,7 +1230,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/disasters-and-emergencies/protecting-your-finances/</loc>
-    <lastmod>2024-01-26</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/disasters-and-emergencies/helping-others-rebuild/</loc>
@@ -9722,11 +9722,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/small-business-lending/</loc>
-    <lastmod>2024-01-05</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/small-business-lending/filing-instructions-guide/</loc>
-    <lastmod>2023-12-13</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/small-business-lending/filing-instructions-guide/2024-guide-archive-v2/</loc>
@@ -9741,8 +9741,12 @@
     <lastmod>2024-06-25</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/small-business-lending/filing-instructions-guide/2025-guide/</loc>
+    <lastmod>2024-08-16</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/small-business-lending/small-business-lending-data-updates/</loc>
-    <lastmod>2023-12-13</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/cfpb-research-conference/</loc>
@@ -16342,7 +16346,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/ethics-guidance-to-protect-public-trust-and-detect-revolving-door-misconduct/</loc>
-    <lastmod>2021-11-23</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/understand-how-cfpb-debt-collection-rule-impacts-you/</loc>
@@ -16366,7 +16370,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/how-should-regulators-review-bank-mergers/</loc>
-    <lastmod>2021-12-09</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/seven-examples-unfair-practices-and-other-violations-mortgage-servicers-cfpb-supervision-activities-uncover-red-flags/</loc>
@@ -17590,7 +17594,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/cfpb-approves-rule-to-ensure-accuracy-and-accountability-in-the-use-of-ai-and-algorithms-in-home-appraisals/</loc>
-    <lastmod>2024-07-05</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/the-cfpbs-2023-fair-lending-annual-report-to-congress/</loc>
@@ -17621,8 +17625,8 @@
     <lastmod>2024-07-23</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/blog/directors-notebook-what-were-hearing-financial-challenges-along-the-gulf-coast/</loc>
-    <lastmod>2024-08-05</lastmod>
+    <loc>https://www.consumerfinance.gov/about-us/blog/what-were-hearing-financial-challenges-along-the-gulf-coast/</loc>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/cfpb-distribuye-mas-de-8-millones-a-consumidores/</loc>
@@ -17643,6 +17647,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/recover-financially-from-floods-and-take-steps-for-the-rest-of-the-storm-season/</loc>
     <lastmod>2024-08-09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/what-buy-now-pay-later-lenders-are-doing-to-be-upfront-with-borrowers/</loc>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
@@ -25609,16 +25617,32 @@
     <lastmod>2024-02-26</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/paralegal-specialist-24-cfpb-188-p/</loc>
-    <lastmod>2024-08-01</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/attorney-adviser-general-honors-attorney-24-cfpb-193-x/</loc>
     <lastmod>2024-07-31</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/program-technologist-24-cfpb-196-p/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/senior-advisor-to-the-chief-operating-officer-24-cfpb-208-mpa/</loc>
+    <lastmod>2024-08-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/personnel-psychologist-24-cfpb-212-p/</loc>
+    <lastmod>2024-08-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/examination-specialist-compliance-technology-analyst-24-cfpb-197-mp/</loc>
+    <lastmod>2024-08-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/management-and-program-analyst-24-cfpb-203-mp-204-p/</loc>
+    <lastmod>2024-08-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/operations-analyst-24-cfpb-205-mp-206-p/</loc>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
@@ -25658,7 +25682,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/supervision-regional-directors/</loc>
