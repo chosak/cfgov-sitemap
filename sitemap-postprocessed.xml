@@ -1470,7 +1470,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/guide-to-filing-your-taxes/</loc>
-    <lastmod>2024-05-02</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/guia-para-declarar-sus-impuestos/</loc>
@@ -2515,6 +2515,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/residential-property-assessed-clean-energy-financing-regulation-z/</loc>
     <lastmod>2024-12-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/final-rules/prohibition-on-creditors-and-consumer-reporting-agencies-concerning-medical-information-regulation-v/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/small-business-review-panels/</loc>
@@ -3882,7 +3886,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/</loc>
-    <lastmod>2024-12-19</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/advance-financial/</loc>
@@ -3998,7 +4002,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/naca-et-al/</loc>
-    <lastmod>2023-09-14</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/ron-nelson/</loc>
@@ -4218,7 +4222,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/medical-debt/</loc>
-    <lastmod>2024-10-01</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/tenant-background-checks/</loc>
@@ -6053,6 +6057,10 @@
     <lastmod>2025-01-06</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/experian-information-solutions-inc/</loc>
+    <lastmod>2025-01-07</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
     <lastmod>2024-12-12</lastmod>
   </url>
@@ -6066,7 +6074,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers/</loc>
-    <lastmod>2025-01-06</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/investigatory-authority/</loc>
@@ -6954,7 +6962,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/fair-credit-reporting-act/</loc>
-    <lastmod>2024-12-12</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/fair-credit-reporting-act/model-forms-and-disclosures/</loc>
@@ -7130,7 +7138,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/advisory-opinion-program/</loc>
-    <lastmod>2024-12-12</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/registration-and-submission-programs/</loc>
@@ -26357,6 +26365,14 @@
     <lastmod>2025-01-06</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-finalizes-rule-to-remove-medical-bills-from-credit-reports/</loc>
+    <lastmod>2025-01-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-sues-experian-for-sham-investigations-of-credit-report-errors/</loc>
+    <lastmod>2025-01-07</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2024-01-17</lastmod>
   </url>
@@ -26449,12 +26465,12 @@
     <lastmod>2024-10-10</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/financial-education-technical-product-analyst-25-cfpb-43-mp/</loc>
-    <lastmod>2024-12-26</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/stakeholder-support-team-lead-25-cfpb-48-mpa/</loc>
     <lastmod>2025-01-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/government-information-specialist-privacy-program-analyst-25-cfpb-47-mp/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
@@ -32385,8 +32401,8 @@
     <lastmod>2024-12-17</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/how-can-i-find-the-loan-limit-for-an-fha-loan-in-my-county-en-1963/</loc>
-    <lastmod>2021-11-12</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/what-are-the-fha-loan-limits-for-my-county-en-1963/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-can-i-find-the-loan-limit-for-a-conforming-loan-in-my-county-en-1961/</loc>
@@ -32529,8 +32545,8 @@
     <lastmod>2024-07-03</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/i-cant-make-my-mortgage-payments-how-long-will-it-take-before-ill-face-foreclosure-en-1849/</loc>
-    <lastmod>2023-06-06</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/how-long-will-it-take-before-ill-face-foreclosure-if-i-cant-make-my-mortgage-payments-what-is-the-foreclosure-timeline-en-1849/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-fees-or-charges-are-paid-when-closing-on-a-mortgage-and-who-pays-them-en-1845/</loc>
@@ -32614,7 +32630,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-qualified-mortgage-en-1789/</loc>
-    <lastmod>2022-06-10</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-ability-to-repay-rule-en-1787/</loc>
@@ -33101,8 +33117,8 @@
     <lastmod>2022-07-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/can-my-partner-family-or-dependents-if-i-have-a-reverse-mortgage-en-1213/</loc>
-    <lastmod>2024-09-10</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/does-having-a-reverse-mortgage-impact-who-can-live-in-my-home-en-1213/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-a-lender-or-dealer-ask-me-about-the-alimony-child-support-or-separate-maintenance-payments-that-i-receive-when-i-apply-for-an-auto-loan-en-1195/</loc>
@@ -34090,7 +34106,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-deed-in-lieu-of-foreclosure-en-291/</loc>
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-short-sale-en-290/</loc>
@@ -34105,8 +34121,8 @@
     <lastmod>2024-05-28</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/my-lender-or-servicer-said-i-could-go-on-a-repayment-plan-what-does-that-mean-en-280/</loc>
-    <lastmod>2023-06-06</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-repayment-plan-on-a-mortgage-en-280/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/a-person-i-hired-to-help-with-my-mortgage-advised-me-to-stop-making-payments-on-my-mortgage-loan-so-i-could-qualify-for-a-loan-modification-do-i-have-to-do-this-en-275/</loc>
@@ -34157,8 +34173,8 @@
     <lastmod>2024-09-06</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-home-equity-loan-and-a-home-equity-line-of-credit-en-247/</loc>
-    <lastmod>2024-09-06</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-home-equity-loan-and-a-home-equity-line-of-credit-heloc-en-247/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-happens-if-i-have-to-move-out-of-my-home-into-a-nursing-home-or-assisted-living-and-i-have-a-reverse-mortgage-en-243/</loc>
@@ -34465,8 +34481,8 @@
     <lastmod>2024-04-26</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/ask-cfpb/how-does-a-mortgage-broker-get-paid-en-132/</loc>
-    <lastmod>2024-12-17</lastmod>
+    <loc>https://www.consumerfinance.gov/ask-cfpb/how-does-a-mortgage-loan-officer-or-broker-get-paid-en-132/</loc>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-can-i-tell-if-i-am-working-with-a-mortgage-broker-or-a-mortgage-lender-en-131/</loc>
@@ -34550,7 +34566,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-balloon-payment-when-is-one-allowed-en-104/</loc>
-    <lastmod>2022-05-12</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-negative-amortization-en-103/</loc>
@@ -34858,7 +34874,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-happens-my-reverse-mortgage-when-i-die-en-2096/</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2025-01-07</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/should-i-share-personal-information-with-a-debt-collector-en-2098/</loc>
