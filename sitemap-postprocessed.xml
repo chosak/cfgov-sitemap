@@ -1901,6 +1901,10 @@
     <lastmod>2025-01-10</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/rules-under-development/prohibited-terms-and-conditions-in-agreements-for-consumer-financial-products-or-services-regulation-aa/</loc>
+    <lastmod>2025-01-13</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/rules-policy/final-rules/</loc>
     <lastmod>2021-04-12</lastmod>
   </url>
@@ -2611,6 +2615,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/open-notices/electronic-fund-transfers-through-accounts-established-primarily-for-personal-family-or-household-purposes-using-emerging-payment-mechanisms-electronic-fund-transfer-act-regulation-e/</loc>
     <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/open-notices/prohibited-terms-and-conditions-in-agreements-for-consumer-financial-products-or-services-regulation-aa/</loc>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/open-notices/request-for-information-regarding-the-collection-use-and-monetization-of-consumer-payment-and-other-personal-financial-data/</loc>
@@ -3970,7 +3978,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/crl-cba/</loc>
-    <lastmod>2025-01-08</lastmod>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/nclc-et-al/</loc>
@@ -4094,7 +4102,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/aaron-klein/</loc>
-    <lastmod>2025-01-08</lastmod>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/andrew-gonzalez-nonbank-entities/</loc>
@@ -4274,7 +4282,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/</loc>
-    <lastmod>2024-12-12</lastmod>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/american-debt-solutions/</loc>
@@ -4522,7 +4530,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/gst/</loc>
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/tempoe/</loc>
@@ -7146,11 +7154,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/advisory-opinion-program/</loc>
-    <lastmod>2025-01-07</lastmod>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/registration-and-submission-programs/</loc>
-    <lastmod>2024-12-12</lastmod>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/amicus/</loc>
@@ -10033,8 +10041,12 @@
     <lastmod>2025-01-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
-    <lastmod>2024-07-25</lastmod>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/consumer-use-of-buy-now-pay-later-and-other-unsecured-debt/</loc>
+    <lastmod>2025-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/flood-risk-and-the-us-mortgage-market/</loc>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-complaints/</loc>
@@ -10486,7 +10498,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/making-ends-meet-survey/</loc>
-    <lastmod>2024-09-23</lastmod>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/annual-report-cfpb-private-education-loan-ombudsman-2020/</loc>
@@ -10503,6 +10515,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/nbr-submission/get-started/</loc>
     <lastmod>2024-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/policy-compliance/</loc>
@@ -26403,6 +26419,18 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-seeks-input-on-digital-payment-privacy-and-consumer-protections/</loc>
     <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-research-reveals-heavy-buy-now-pay-later-use-among-borrowers-with-high-credit-balances-and-multiple-pay-in-four-loans/</loc>
+    <lastmod>2025-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-proposes-rule-to-ban-contract-clauses-that-strip-away-fundamental-freedoms/</loc>
+    <lastmod>2025-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-finds-hundreds-of-thousands-of-mortgages-in-southeast-and-central-southwest-us-likely-underinsured-against-flood-risk/</loc>
+    <lastmod>2025-01-13</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
