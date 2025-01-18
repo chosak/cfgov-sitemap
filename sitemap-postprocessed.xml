@@ -1470,11 +1470,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/guide-to-filing-your-taxes/</loc>
-    <lastmod>2025-01-07</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/guia-para-declarar-sus-impuestos/</loc>
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/money-transfers-revisions-sept-2023/money-transfers-key-terms/</loc>
@@ -2623,6 +2623,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/open-notices/request-for-information-regarding-the-collection-use-and-monetization-of-consumer-payment-and-other-personal-financial-data/</loc>
     <lastmod>2025-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/open-notices/request-for-information-regarding-consumer-credit-card-market/</loc>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/rules-policy/notice-opportunities-comment/archive-closed/</loc>
@@ -4282,7 +4286,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/</loc>
-    <lastmod>2025-01-13</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/american-debt-solutions/</loc>
@@ -4539,6 +4543,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/lexlaw/</loc>
     <lastmod>2024-12-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/driverloan/</loc>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/</loc>
@@ -6085,6 +6093,18 @@
     <lastmod>2025-01-16</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/equifax-inc-and-equifax-information-services-llc/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/american-honda-finance-corporation-2025/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/actions/draper-kramer-mortgage-corporation/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
     <lastmod>2024-12-12</lastmod>
   </url>
@@ -6098,7 +6118,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers/</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/investigatory-authority/</loc>
@@ -6518,7 +6538,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervisory-highlights/</loc>
-    <lastmod>2024-12-23</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/compliance/supervisory-guidance/</loc>
@@ -10081,6 +10101,10 @@
     <lastmod>2025-01-16</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/supervisory-highlights-advanced-technologies-special-edition-issue-38-winter-2025/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-complaints/</loc>
     <lastmod>2024-05-16</lastmod>
   </url>
@@ -10538,7 +10562,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/nbr-submission/</loc>
-    <lastmod>2024-12-17</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/nbr-submission/privacy-act-statement-for-the-nonbank-registry-system/</loc>
@@ -10546,7 +10570,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/nbr-submission/get-started/</loc>
-    <lastmod>2024-12-13</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-hub/</loc>
@@ -18162,7 +18186,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/holding-credit-reporting-companies-accountable-for-junk-data/</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/strengthening-state-level-consumer-protections/</loc>
@@ -18175,6 +18199,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/about-us/blog/what-were-watching-language-access-in-consumer-finance/</loc>
     <lastmod>2025-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/back-from-the-dead-zombie-second-mortgages/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/blog/strengthening-appraisal-oversight-progress-at-the-appraisal-subcommittee/</loc>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/</loc>
@@ -26505,6 +26537,18 @@
     <lastmod>2025-01-16</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-hondas-auto-financing-arm-to-pay-128-million-for-covid-19-and-other-credit-reporting-failures/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-equifax-to-pay-15-million-for-improper-investigations-of-credit-reporting-errors/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-draper-kramer-mortgage-for-discriminatory-mortgage-lending-practices/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2024-01-17</lastmod>
   </url>
@@ -26601,6 +26645,14 @@
     <lastmod>2025-01-08</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/personnel-security-specialist-25-cfpb-60-mp/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/careers/current-openings/personnel-security-team-lead-25-cfpb-61-mp/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/supervision/</loc>
     <lastmod>2024-07-03</lastmod>
   </url>
@@ -26634,7 +26686,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/leadership-calendar/</loc>
-    <lastmod>2024-12-23</lastmod>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/the-bureau/about-director/</loc>
@@ -28119,6 +28171,14 @@
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/block-inc/</loc>
     <lastmod>2025-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/equifax-inc-and-equifax-information-services-llc/</loc>
+    <lastmod>2025-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/american-honda-finance-corporation-2025/</loc>
+    <lastmod>2025-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-proceeding-forms-and-information/</loc>
