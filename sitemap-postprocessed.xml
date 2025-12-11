@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/</loc>
@@ -618,7 +618,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/library-resources/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/library-resources/program-ideas/</loc>
@@ -770,7 +770,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-tax-preparers/tools-for-planning-outreach-working-with-taxpayers/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-tax-preparers/virtual-tax-preparation-case-studies/</loc>
@@ -805,10 +805,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/co-brand-booklets-help-talk-about-money/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/videos/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -830,7 +826,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/servicemembers/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/servicemembers/servicemember-reports-about-identity-theft-are-increasing/</loc>
@@ -878,7 +874,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/employers/</loc>
-    <lastmod>2025-09-04</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/employers/internal-communications-materials/</loc>
@@ -894,7 +890,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/bank-accounts/</loc>
-    <lastmod>2025-11-03</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/bank-accounts/answers/</loc>
@@ -1618,7 +1614,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/owning-a-home/privacy-act-statement/</loc>
@@ -10243,6 +10239,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/fair-debt-collection-practices-act-cfpb-annual-report-2025/</loc>
     <lastmod>2025-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/the-buy-now-pay-later-market/</loc>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-complaints/</loc>
@@ -23966,7 +23966,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-and-fdic-release-enhanced-version-money-smart-for-older-adults/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-acting-director-uejio-afrs-celebration-cfpbs-10th-birthday/</loc>
@@ -28474,7 +28474,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/notices-after-you-applied-for-credit/</loc>
@@ -28482,7 +28482,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/cfpb-in-english/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/language/cfpb-in-english/auto-loans-key-terms/</loc>
@@ -32374,7 +32374,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-10</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/paying-for-college/your-financial-path-to-graduation/</loc>
