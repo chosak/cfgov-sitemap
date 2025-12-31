@@ -7854,7 +7854,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/</loc>
-    <lastmod>2025-08-14</lastmod>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/</loc>
@@ -10226,7 +10226,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/plain-writing-act-compliance-report-2024/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/the-financial-security-of-small-business-owners-evidence-from-the-making-ends-meet-survey/</loc>
@@ -10327,6 +10327,18 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/research-reports/2024-financial-literacy-annual-report/</loc>
     <lastmod>2025-12-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/the-consumer-credit-card-market-2025/</loc>
+    <lastmod>2025-12-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/2025-college-credit-card-agreements/</loc>
+    <lastmod>2025-12-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/plain-writing-act-compliance-report-2025/</loc>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-complaints/</loc>
@@ -10430,7 +10442,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/public-data-inventory/</loc>
-    <lastmod>2025-09-23</lastmod>
+    <lastmod>2025-12-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/public-data-inventory/deposit-product-marketing-agreements-and-data/</loc>
+    <lastmod>2025-07-08</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-credit-trends/</loc>
@@ -10554,7 +10570,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/know-you-owe-credit-cards/</loc>
@@ -10573,16 +10589,16 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/credit-card-data/college-credit-card-marketing-agreement-submission/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <loc>https://www.consumerfinance.gov/data-research/credit-card-data/college-credit-card-agreement-submission/</loc>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/credit-card-data/college-credit-card-marketing-agreement-submission/annual-college-credit-card-agreement-submission-faqs/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <loc>https://www.consumerfinance.gov/data-research/credit-card-data/college-credit-card-agreement-submission/annual-college-credit-card-agreement-submission-faqs/</loc>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/</loc>
-    <lastmod>2025-11-03</lastmod>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/data-dictionary/</loc>
@@ -10591,6 +10607,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/tccp-survey-faqs/</loc>
     <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/technical-qas/</loc>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/prepaid-accounts/</loc>
@@ -10757,20 +10777,16 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/student-banking/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <loc>https://www.consumerfinance.gov/data-research/college-credit-card/</loc>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/student-banking/marketing-agreements-and-data/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <loc>https://www.consumerfinance.gov/data-research/college-credit-card/agreements-and-data/</loc>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/data-research/student-banking/student-banking-reports-congress/</loc>
-    <lastmod>2025-11-07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/data-research/student-banking/deposit-product-marketing-agreements-and-data/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <loc>https://www.consumerfinance.gov/data-research/college-credit-card/college-credit-card-reports-congress/</loc>
+    <lastmod>2025-12-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
