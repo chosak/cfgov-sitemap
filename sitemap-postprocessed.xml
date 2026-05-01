@@ -4513,10 +4513,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/enforcement/life-cycle-of-enforcement-action/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -4826,6 +4822,10 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/allocation-schedule/</loc>
+    <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
@@ -6381,22 +6381,6 @@
     <lastmod>2026-02-18</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/enforcement/information-industry-whistleblowers/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/enforcement/information-industry-whistleblowers/privacy-act-statement/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/enforcement/investigatory-authority/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -6678,6 +6662,22 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/investigatory-authority/petitions-to-enforce/community-loans-of-america-inc/</loc>
+    <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/information-industry-whistleblowers/</loc>
+    <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/information-industry-whistleblowers/privacy-act-statement/</loc>
+    <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/life-cycle-of-enforcement-action/</loc>
+    <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/warning-letters/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
@@ -10425,6 +10425,10 @@
     <lastmod>2026-04-22</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/gao-ig-act-reporting-2026/</loc>
+    <lastmod>2026-04-30</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-complaints/</loc>
     <lastmod>2025-10-20</lastmod>
   </url>
@@ -10918,7 +10922,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/budget-and-performance/</loc>
-    <lastmod>2026-01-14</lastmod>
+    <lastmod>2026-04-30</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/budget-strategy/financial-reports/</loc>
@@ -25461,10 +25465,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/actue-cuando-le-cancelen-el-seguro-de-vivienda-o-el-costo-suba/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-report-highlights-role-of-big-tech-firms-in-mobile-payments/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -25657,10 +25657,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-actua-contra-aci-por-procesar-2-3-billones-en-pagos-no-autorizados/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-highlighting-consumer-protection-issues-in-medical-debt-collection/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -25702,10 +25698,6 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/opening-statement-of-director-rohit-chopra-before-the-senate-committee-on-banking-housing-and-urban-affairs-2023-11/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-actua-contra-bank-of-america-por-violar-la-ley/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
@@ -26029,10 +26021,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-actua-contra-citi-por-discriminar-a-consumidores/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-member-fdic-board-of-directors-on-reviewing-investments-in-and-takeovers-of-banks/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -26050,10 +26038,6 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-rutgers-law-school-center-for-corporate-law-and-governance/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-15-millones-tienen-facturas-medicas-en-sus-informes-de-credito/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
@@ -26221,10 +26205,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-actua-contra-chime-por-retraso-con-reembolsos/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-reporta-frustraciones-con-programas-de-recompensas/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -26341,10 +26321,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-actua-contra-corporacion-por-violar-orden-ejecutora/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-the-public-meeting-of-the-strike-force-on-unfair-and-illegal-pricing/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -26370,10 +26346,6 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-to-stop-contract-for-deed-investors-from-setting-borrowers-up-to-fail/</loc>
-    <lastmod>2025-07-08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.consumerfinance.gov/about-us/newsroom/aviso-al-consumidor-mantengase-alejado-de-los-prestamos-costosos-y-complejos-para-la-instalacion-de-energia-solar/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
