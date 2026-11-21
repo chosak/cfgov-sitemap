@@ -766,7 +766,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/companion-guides/</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/booklets-talk-about-money/</loc>
@@ -4374,7 +4374,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/american-debt-solutions/</loc>
@@ -4609,10 +4609,6 @@
     <lastmod>2025-07-08</lastmod>
   </url>
   <url>
-    <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/accessfunding/</loc>
-    <lastmod>2026-05-28</lastmod>
-  </url>
-  <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/brightspeed/</loc>
     <lastmod>2025-07-08</lastmod>
   </url>
@@ -4683,6 +4679,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/hello-digit/</loc>
     <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/payments-by-case/access/</loc>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/</loc>
@@ -9961,6 +9961,14 @@
     <lastmod>2026-10-27</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/2026-private-education-loan-ombudsman-report/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/research-reports/2026-college-credit-card-agreements/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/data-research/consumer-complaints/</loc>
     <lastmod>2026-10-29</lastmod>
   </url>
@@ -10338,11 +10346,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/college-credit-card/agreements-and-data/</loc>
-    <lastmod>2025-12-30</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/college-credit-card/college-credit-card-reports-congress/</loc>
-    <lastmod>2025-12-30</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/data-research/american-survey-mortgage-borrowers/</loc>
@@ -10363,6 +10371,10 @@
   <url>
     <loc>https://www.consumerfinance.gov/data-research/national-age-friendly-banking-survey-data/</loc>
     <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/data-research/public-data-inventory/</loc>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/policy-compliance/</loc>
@@ -13154,7 +13166,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/learnmore/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/mortgage/</loc>
