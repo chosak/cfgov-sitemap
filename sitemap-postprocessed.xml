@@ -794,7 +794,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/tools-and-resources/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/tips-for-managing-family-lending-and-borrowing/</loc>
@@ -906,7 +906,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/equifax/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/certegy-payment-solutions/</loc>
@@ -918,7 +918,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/mib-inc/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/clarity-services/</loc>
@@ -1158,7 +1158,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/answers/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/consumer-tools/credit-cards/how-to-fix-mistakes-in-your-credit-card-bill/</loc>
@@ -11441,6 +11441,14 @@
     <lastmod>2026-11-24</lastmod>
   </url>
   <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-dollar-thresholds-for-applicability-of-truth-in-lending-and-consumer-leasing-rules-for-consumer-credit-and-lease-transactions/</loc>
+    <lastmod>2026-11-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-dollar-thresholds-for-smaller-loan-exemption-from-appraisal-requirements-for-higher-priced-mortgage-loans/</loc>
+    <lastmod>2026-11-25</lastmod>
+  </url>
+  <url>
     <loc>https://www.consumerfinance.gov/about-us/careers/</loc>
     <lastmod>2026-09-15</lastmod>
   </url>
@@ -13402,7 +13410,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/why-is-the-title-insurance-premium-on-the-loan-estimate-and-closing-disclosure-different-from-the-premium-listed-on-the-paperwork-i-received-from-the-title-insurance-company-am-i-being-charged-more-en-1993/</loc>
@@ -13426,7 +13434,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-my-bank-or-credit-union-charge-me-a-fee-for-processing-a-garnishment-if-i-receive-social-security-or-va-benefits-en-1981/</loc>
@@ -13438,7 +13446,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-can-i-get-a-refund-on-a-product-or-service-i-purchased-with-my-credit-card-en-1969/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-mortgage-lenders-calculate-monthly-payments-en-1965/</loc>
@@ -13486,11 +13494,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/on-a-mortgage-whats-the-difference-between-my-principal-and-interest-payment-and-my-total-monthly-payment-en-1941/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-recently-inherited-a-house-the-mortgage-lender-said-its-required-to-determine-my-ability-to-repay-before-it-will-let-me-take-over-the-mortgage-loan-is-this-true-en-1939/</loc>
@@ -13558,7 +13566,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-fico-score-en-1883/</loc>
-    <lastmod>2025-09-11</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/why-did-i-receive-different-valuations-during-the-mortgage-loan-application-process-en-1875/</loc>
@@ -13674,7 +13682,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-qualified-mortgage-en-1789/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-ability-to-repay-rule-en-1787/</loc>
@@ -13758,7 +13766,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-does-compound-interest-work-en-1683/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-find-my-states-bank-regulator-en-1637/</loc>
@@ -13870,7 +13878,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-i-be-arrested-for-an-unpaid-debt-en-1537/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-avoid-scams-and-fraud-after-a-disaster-en-1529/</loc>
@@ -13878,7 +13886,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-home-insurance-companies-pay-out-claims-en-1523/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-my-house-was-damaged-or-destroyed-or-if-im-unable-to-make-my-payment-after-a-disaster-en-1521/</loc>
@@ -13914,7 +13922,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-was-an-authorized-user-on-my-deceased-relatives-credit-card-account-am-i-liable-to-repay-the-debt-en-1485/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/is-it-a-scam-if-a-debt-collector-calls-me-after-seeing-my-relatives-obituary-en-1483/</loc>
@@ -14066,7 +14074,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-inquiry-en-1317/</loc>
-    <lastmod>2025-09-11</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/who-can-request-to-see-my-credit-report-en-1305/</loc>
@@ -14154,7 +14162,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-wire-transfer-en-1163/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/</loc>
@@ -14174,7 +14182,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-family-member-signed-a-power-of-attorney-poa-but-when-i-took-it-to-the-bankcredit-union-i-was-told-the-poa-has-to-be-on-the-bankcredit-unions-form-what-can-i-do-en-1151/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/</loc>
@@ -14202,7 +14210,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/why-was-i-denied-a-checking-account-en-1113/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-was-told-my-check-was-turned-into-an-electronic-funds-transfer-what-does-this-mean-en-1109/</loc>
@@ -14218,7 +14226,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/a-joint-checking-account-owner-took-all-the-money-out-and-then-closed-the-account-without-my-agreement-can-they-do-that-en-1099/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-i-remove-my-spouse-from-our-joint-checking-account-en-1097/</loc>
@@ -14290,7 +14298,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-an-overdraft-en-1035/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/if-i-get-paid-through-direct-deposit-when-can-i-withdraw-the-funds-en-1025/</loc>
@@ -14310,7 +14318,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/a-deposit-was-credited-to-my-account-by-mistake-can-the-bankcredit-union-take-it-back-en-1015/</loc>
@@ -14358,11 +14366,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-move-my-checking-account-to-another-bank-or-credit-union-en-985/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-payment-on-a-check-en-983/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-avoid-atm-fees-en-981/</loc>
@@ -14430,7 +14438,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-i-cash-a-check-at-any-bank-or-credit-union-en-931/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/should-i-get-a-checking-account-that-pays-interest-en-925/</loc>
@@ -14498,11 +14506,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-cant-make-my-car-payments-en-849/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/is-it-better-to-pay-off-the-interest-or-principal-on-my-auto-loan-en-845/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-i-prepay-my-loan-at-any-time-without-penalty-en-843/</loc>
@@ -14662,7 +14670,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-think-an-auto-dealer-or-lender-is-breaking-the-law-en-719/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-student-loan-relief-exists-for-active-duty-members-of-the-military-675/</loc>
@@ -14854,7 +14862,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-check-my-prepaid-card-balance-en-503/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-i-use-my-prepaid-card-outside-of-the-us-en-501/</loc>
@@ -14906,7 +14914,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-are-prepaid-cards-debit-cards-and-credit-cards-different-en-433/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-my-prepaid-card-or-pin-is-lost-or-stolen-or-i-see-unauthorized-charges-en-425/</loc>
@@ -14942,7 +14950,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-shop-for-buy-a-prepaid-card-en-395/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/where-can-i-use-my-prepaid-card-en-383/</loc>
@@ -14990,15 +14998,15 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-harassment-by-a-debt-collector-en-336/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-im-sued-by-a-debt-collector-or-creditor-en-334/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/can-debt-collectors-tell-other-people-like-family-friends-or-my-employer-about-my-debt-en-332/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/</loc>
@@ -15086,7 +15094,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-does-foreclosure-work-en-287/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-repayment-plan-on-a-mortgage-en-280/</loc>
@@ -15146,7 +15154,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-happens-if-i-have-to-move-out-of-my-home-into-a-nursing-home-or-assisted-living-and-i-have-a-reverse-mortgage-en-243/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/with-a-reverse-mortgage-loan-can-my-heirs-keep-or-sell-my-home-after-i-die-en-242/</loc>
@@ -15162,7 +15170,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/when-do-i-have-to-pay-back-a-reverse-mortgage-loan-en-236/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-are-my-responsibilities-as-a-reverse-mortgage-loan-borrower-en-235/</loc>
@@ -15226,7 +15234,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/why-did-my-monthly-mortgage-payment-go-up-or-change-en-213/</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/my-mortgage-servicer-has-not-responded-to-a-notice-of-error-or-information-request-that-i-sent-what-can-i-do-en-211/</loc>
@@ -15266,7 +15274,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-mortgage-lender-and-a-mortgage-servicer-en-198/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-do-i-tell-if-i-have-a-fixed-or-adjustable-rate-mortgage-en-196/</loc>
@@ -15354,7 +15362,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-owners-title-insurance-en-164/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-lenders-title-insurance-en-163/</loc>
@@ -15362,7 +15370,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-why-is-homeowners-insurance-required-en-162/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-are-prepaid-interest-charges-en-161/</loc>
@@ -15418,7 +15426,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/whats-a-lock-in-or-a-rate-lock-en-143/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/is-there-such-a-thing-as-a-no-cost-or-no-closing-loan-or-refinancing-en-141/</loc>
@@ -15434,7 +15442,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/</loc>
@@ -15446,11 +15454,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/is-there-any-way-i-can-check-to-see-if-the-company-or-person-i-contact-is-permitted-to-make-or-broker-mortgage-loans-en-133/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/how-does-a-mortgage-loan-officer-or-broker-get-paid-en-132/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-lender-and-a-mortgage-broker-en-130/</loc>
@@ -15458,7 +15466,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-prequalification-letter-and-a-preapproval-letter-en-127/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/where-can-i-get-money-for-a-down-payment-on-a-home-en-123/</loc>
@@ -15522,7 +15530,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-loan-en-106/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-second-mortgage-loan-or-junior-lien-en-105/</loc>
@@ -15574,7 +15582,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-want-to-close-my-credit-card-account-what-should-i-do-en-84/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/i-received-a-notice-from-my-card-issuer-telling-me-that-they-were-closing-my-account-and-that-i-cannot-use-my-credit-card-any-more-can-they-do-that-en-83/</loc>
@@ -15586,7 +15594,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/when-is-my-credit-card-payment-considered-to-be-late-en-79/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/this-month-my-payment-is-due-on-a-sunday-when-is-it-really-due-en-78/</loc>
@@ -15666,7 +15674,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-grace-period-for-a-credit-card-en-47/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-daily-periodic-rate-on-a-credit-card-en-46/</loc>
@@ -15678,7 +15686,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-card-interest-rate-what-does-apr-mean-en-44/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-can-i-do-if-i-dont-receive-my-credit-card-bill-en-43/</loc>
@@ -15818,11 +15826,11 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-happens-if-i-have-reverse-mortgage-and-i-want-sell-my-home-en-2095/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-happens-my-reverse-mortgage-when-i-die-en-2096/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/should-i-share-personal-information-with-a-debt-collector-en-2098/</loc>
@@ -15830,7 +15838,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/unexpected-pre-approved-offer-or-live-check-loan-mail-en-2099/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-are-the-signs-of-a-student-loan-scam-en-2100/</loc>
@@ -15906,7 +15914,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/is-there-financial-help-for-my-medical-bills-en-2124/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-cant-pay-a-medical-bill-en-2125/</loc>
@@ -16006,7 +16014,7 @@
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/why-am-i-being-charged-a-monthly-maintenance-fee-for-my-bank-or-credit-union-account-en-2151/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://www.consumerfinance.gov/ask-cfpb/what-is-a-low-risk-bank-account-and-who-is-it-for-en-2152/</loc>
